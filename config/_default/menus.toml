@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = People
+  url = "people/"
+  weight = 11
+
+[[main]]
   name = "Publications"
   url = "#featured"
   weight = 20
