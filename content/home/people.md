@@ -7,7 +7,11 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
+<<<<<<< HEAD
 title = "Prof Gaëlle's research lab"
+=======
+title = "Prof Gaelle's research lab"
+>>>>>>> d5462e4f5f86bfd81f2db65c1be976f2a3fa4792
 subtitle = "Meet the team working in Prof Gaelle's lab. The lab includes PhD students, a research associate and a postdoctoral fellow currently working on the TORR project and with other research groups within the university, and beyond."
 
 [content]
