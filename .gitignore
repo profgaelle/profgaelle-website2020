@@ -5,3 +5,9 @@
 resources/
 public/
 .Rproj.user
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
