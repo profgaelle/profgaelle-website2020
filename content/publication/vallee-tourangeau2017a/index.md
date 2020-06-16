@@ -1,0 +1,81 @@
++++
+title = "Motors of influenza vaccination uptake and vaccination advocacy in healthcare workers: Development and validation of two short scales"
+date = 2017-09-01T00:00:00
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Gaëlle Vallée-Tourangeau", "Marianne Promberger", "Karis Moon", "Ana Wheelock", "Miroslav Sirota", "Christine Norton", "Nick Sevdalis"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Manuscript
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+publication_types = ["2"]
+
+# Publication name and optional abbreviated version.
+publication = "In *Vaccine*"
+publication_short = "In *Vaccine*"
+
+# Abstract and optional shortened version.
+abstract = "Healthcare workers (HCWs) are an important priority group for vaccination against influenza, yet, flu vaccine uptake remains low among them. Psychosocial studies of HCWs' decisions to get vaccinated have commonly drawn on subjective expected utility models to assess predictors of vaccination, assuming HCWs' choices result from a rational information-weighing process. By contrast, we recast those decisions as a commitment to vaccination and we aimed to understand why HCWs may want to (rather than believe they need to) get vaccinated against the flu. This article outlines the development and validation of a 9-item measure of cognitive empowerment towards flu vaccination (MoVac-flu scale) and an 11-item measure of cognitive empowerment towards vaccination advocacy. Both scales were administered to 784 frontline NHS HCWs with direct patient contact between June 2014 and July 2015. The scales exhibited excellent reliability and a clear unidimensional factor structure. An examination of the nomological network of the cognitive empowerment construct in relation to HCWs' vaccination against the flu revealed that this construct was distinct from traditional measures of risk perception and the strongest predictor of HCWs' decisions to vaccinate. Similarly, cognitive empowerment in relation to vaccination advocacy was a strong predictor of HCWs' engagement with vaccination advocacy. These findings suggest that the cognitive empowerment construct has important implications for advancing our understanding of HCWs' decisions to vaccinate as well as their advocacy behavior."
+abstract_short = "This article outlines the development and validation of a 9-item measure of cognitive empowerment towards flu vaccination (MoVac-flu scale) and an 11-item measure of cognitive empowerment towards vaccination advocacy."
+
+# Is this a selected publication? (true/false)
+featured = true
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects = ["hcwvax"]
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references 
+#   `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+# slides = "example-slides"
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["vaccine hesitancy", "MoVac scale", "MovAd scale", "open access"]
+
+# Links (optional).
+url_pdf = "files/vallee-tourangeau2017a.pdf"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+# Digital Object Identifier (DOI)
+doi = "10.1016/j.vaccine.2017.08.025"
+
+# Does this page contain LaTeX math? (true/false)
+math = false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
++++
