@@ -31,7 +31,7 @@ subtitle = "...to Prof Gaëlle's lab website!"
   # Background image.
   image = "header-image.gif"  # Name of image in `static/img/`.
   image_darken = 0.2  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
@@ -50,10 +50,3 @@ subtitle = "...to Prof Gaëlle's lab website!"
  css_class = ""
 +++
 
-Welcome to Prof Gaëlle's Behavioural Science Lab at [Kingston Business School](https://www.kingston.ac.uk/faculties/faculty-of-business-and-social-sciences/schools/kingston-business-school/). Our research focuses on the role played by social, physical and/or mental processes in decision-making, uncertainty judgements and creative thinking both in the lab and in applied settings.
-
-To study these processes, we use a combination experiments (e.g., online experiments and surveys, interactive lab experiments, and eye-tracking experiments) and observational studies (e.g., video-based behaviour observations in the lab, video-based process-tracing via remote screen-sharing).
-
-Our research seeks to contribute to our understanding of applied issues such as the role of healthcare workers' motivations in flu vaccination decisions, executives' career decision trajectories, the cognitive processes underpinning peer-reviewers' judgments of in research grant funding applications, sustainable compuption choices regarding children's products, or traders' investment decisions.
-
-If you are an undergraduate or postgraduate at Kingston University interested in research with our group, please send a short email about your interest and background, and a cv and any previous research papers to [g.vallee-tourangeau@kingston.ac.uk](mailto:g.vallee-tourangeau@kingston.ac.uk).  
