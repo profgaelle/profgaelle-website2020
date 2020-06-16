@@ -1,0 +1,15 @@
+# Font style metadata
+name = "gaelle"
+
+# Optional Google font URL
+google_fonts = "Playfair+Display:700|Roboto:300|Playfair+Display:400|Roboto+Mono|"
+
+# Font families
+heading_font = "Playfair Display"
+body_font = "Roboto Light"
+nav_font = "Playfair Display"
+mono_font = "Roboto Mono"
+
+# Font size
+font_size = "18"
+font_size_small = "14"
