@@ -50,4 +50,4 @@ hero_media = ""
 #[cta_note]
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" #data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
-<br>
+{{< figure library="true" src="welcome.png" title="A caption" lightbox="true" >}}
