@@ -52,22 +52,10 @@ subtitle = ""
  css_class = ""
 +++
 {{< figure library="true" src="welcome.gif#floatright" lightbox = "false">}}
-Test text R version 3.6.2 (2019-12-12) -- "Dark and Stormy Night"
-Copyright (C) 2019 The R Foundation for Statistical Computing
-Platform: x86_64-apple-darwin15.6.0 (64-bit)
+Welcome to Prof Gaëlle’s Behavioural Science Lab at [Kingston Business School](https://www.kingston.ac.uk/faculties/faculty-of-business-and-social-sciences/schools/kingston-business-school/). Our research focuses on the role played by social, physical and/or mental processes in decision-making, uncertainty judgements and creative thinking both in the lab and in applied settings.
 
-R is free software and comes with ABSOLUTELY NO WARRANTY.
-You are welcome to redistribute it under certain conditions.
-Type 'license()' or 'licence()' for distribution details.
+To study these processes, we use a combination experiments (e.g., online experiments and surveys, interactive lab experiments, and eye-tracking experiments) and observational studies (e.g., video-based behaviour observations in the lab, video-based process-tracing via remote screen-sharing).
 
-  Natural language support but running in an English locale
+Our research seeks to contribute to our understanding of applied issues such as the role of healthcare workers’ motivations in flu vaccination decisions, executives’ career decision trajectories, the cognitive processes underpinning peer-reviewers’ judgments of in research grant funding applications, sustainable compuption choices regarding children’s products, or traders’ investment decisions.
 
-R is a collaborative project with many contributors.
-Type 'contributors()' for more information and
-'citation()' on how to cite R or R packages in publications.
-
-Type 'demo()' for some demos, 'help()' for on-line help, or
-'help.start()' for an HTML browser interface to help.
-Type 'q()' to quit R.
-
-
+If you are an undergraduate or postgraduate at Kingston University interested in research with our group, please send a short email about your interest and background, and a cv and any previous research papers to [g.vallee-tourangeau@kingston.ac.uk](mailto:g.vallee-tourangeau@kingston.ac.uk).
