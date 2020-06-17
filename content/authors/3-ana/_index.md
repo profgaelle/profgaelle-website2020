@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ana Wheelock
+title: Ana Wheelock
 
 # Username (this should match the folder name)
 authors:

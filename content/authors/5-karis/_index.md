@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Karis Moon
+title: Dr Karis Moon
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:

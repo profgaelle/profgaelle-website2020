@@ -8,16 +8,17 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 
-title = "Prof Gaëlle's research lab"
-subtitle = "Meet the team working in Prof Gaelle's lab. The lab includes PhD students, a research associate and a postdoctoral fellow currently working on the TORR project and with other research groups within the university, and beyond."
+title = "BI lab team members"
+subtitle = "Meet the team working in the Behavioural Insights lab. The lab includes PhD students, a research associate and a postdoctoral fellow currently working on the TORR project and collaborators from other research groups within the university, and beyond."
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["Principal Investigator",
-                 "Researchers",
-                 "PhD Students",
-                 "Administration",
+                 "Postdoctoral Research Fellow",
+                 "Research Associate",
+                 "PhD Student",
+                 "Collaborator",
                  "Visitors",
                  "Alumni"]
 [design]
