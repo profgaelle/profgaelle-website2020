@@ -8,8 +8,8 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 
-title = "B-Insights Lab team members"
-subtitle = "Meet the team working in the Behavioural Insights lab. The lab includes PhD students, a research associate and a postdoctoral fellow currently working on the TORR project and collaborators from other research groups within the university, and beyond."
+title = "DSci Lab team members"
+subtitle = "Meet the team working in the DSci lab. The lab includes PhD students, a research associate and a postdoctoral fellow currently working on the TORR project and collaborators from other research groups within the university, and beyond."
 
 [content]
   # Choose which groups/teams of users to display.
