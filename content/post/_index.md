@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: DSci Blog posts
 
 # View.
 #   1 = List
