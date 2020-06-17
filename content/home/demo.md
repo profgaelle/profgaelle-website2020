@@ -52,10 +52,10 @@ subtitle = ""
  css_class = ""
 +++
 {{< figure library="true" src="welcome.gif" class="borderingRightClass" >}}
-Welcome to Prof Gaëlle’s Behavioural Science Lab at [Kingston Business School](https://www.kingston.ac.uk/faculties/faculty-of-business-and-social-sciences/schools/kingston-business-school/). Our research focuses on the role played by social, physical and/or mental processes in decision-making, uncertainty judgements and creative thinking both in the lab and in applied settings.
+Welcome to Prof Gaëlle’s Decision Science & creative insights (DSci) Lab at [Kingston Business School](https://www.kingston.ac.uk/faculties/faculty-of-business-and-social-sciences/schools/kingston-business-school/). Our research focuses on the role played by social, physical and/or mental processes in decision-making, uncertainty judgements and creative thinking both in the lab and in applied settings.
 
 To study these processes, we use a combination experiments (e.g., online experiments and surveys, interactive lab experiments, and eye-tracking experiments) and observational studies (e.g., video-based behaviour observations in the lab, video-based process-tracing via remote screen-sharing).
 
 Our research seeks to contribute to our understanding of applied issues such as the role of healthcare workers’ motivations in flu vaccination decisions, executives’ career decision trajectories, the cognitive processes underpinning peer-reviewers’ judgments of in research grant funding applications, sustainable compuption choices regarding children’s products, or traders’ investment decisions.
 
-If you are an undergraduate or postgraduate at Kingston University interested in research with our group, please send a short email about your interest and background, and a cv and any previous research papers to [g.vallee-tourangeau@kingston.ac.uk](mailto:g.vallee-tourangeau@kingston.ac.uk).
+If you are an undergraduate or postgraduate at Kingston University interested in research with our lab, please send a short email about your interest and background, and a cv and any previous research papers to [g.vallee-tourangeau@kingston.ac.uk](mailto:g.vallee-tourangeau@kingston.ac.uk).
