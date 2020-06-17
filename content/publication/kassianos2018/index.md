@@ -18,9 +18,8 @@ authors = ["George Kassianos", "Ernest Kuchar", "Aneta Nitsch-Osuch", "Jan Kyncl
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Vaccine*, *36*(44), 6546-6552.
-"
-publication_short = "In *Vaccine*"
+publication = "*Vaccine*, *36*(44), 6546-6552."
+
 
 # Abstract and optional shortened version.
 abstract = "Annual vaccination is the most effective way to prevent and control the health and economic burden caused by seasonal influenza. Healthcare workers (HCWs) play a crucial role in vaccine acceptance and advocacy for their patients. This study explored the drivers of HCWs’ vaccine acceptance and advocacy in six European countries."
