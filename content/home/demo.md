@@ -31,11 +31,11 @@ subtitle = ""
   # gradient_end = "ForestGreen"
   
   # Background image.
-  image = "header-image.gif"  # Name of image in `static/img/`.
-  image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "right"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  #image = "header-image.gif"  # Name of image in `static/img/`.
+  #image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  #image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
+  #image_position = "right"  # Options include `left`, `center` (default), or `right`.
+  #image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = false
@@ -51,7 +51,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-{{< figure library="true" src="welcome.gif#floatright" >}}
+{{< figure library="true" src="welcome.gif#floatright" lightbox = "false">}}
 Test text R version 3.6.2 (2019-12-12) -- "Dark and Stormy Night"
 Copyright (C) 2019 The R Foundation for Statistical Computing
 Platform: x86_64-apple-darwin15.6.0 (64-bit)
