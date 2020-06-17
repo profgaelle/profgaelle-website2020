@@ -1,7 +1,7 @@
 img[src$='#floatleft']
 {
 	float:left;
-	border: 10px solid transparent;
+	border: 10px solid transparent !important;
 	padding: 15px;
 	border-image: url(static/img/border.png) 30 round;
 }
