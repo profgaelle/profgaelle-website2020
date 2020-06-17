@@ -76,8 +76,8 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-[user_groups:
-- Principal Investigator]
+#user_groups:
+#- Principal Investigator
 ---
 
 Gaëlle Vallée-Tourangeau a professor of Behavioural Science in the Department of Management at Kingston University Business School. She studied at Paris Ouest University (1998, MSc Social Psychology) and the University of Hertfordshire (2004, PhD) then was a lecturer at the Leeds University Business School (2001-2004) and the University of Toulouse (2004-2009) before joining Kingston University in 2009.
