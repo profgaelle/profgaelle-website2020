@@ -51,4 +51,4 @@ hero_media = ""
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" #data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-{{< video library="true" src=homepage_animation.mp4" controls="no" autoplay="yes" loop="yes" muted="yes" playsinline="yes" >}}
+{< figure library="true" src="welcome.gif" title="A caption" lightbox="true" >}}
