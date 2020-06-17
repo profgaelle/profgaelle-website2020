@@ -2,14 +2,14 @@ img[src$='#floatleft']
 {
 	float:left;
 	border: 10px solid transparent !important;
-	padding: 15px;
-	border-image: url(static/img/border.png) 30 round;
+	padding: 15px !important;
+	border-image: url(static/img/border.png) 30 round !important;
 }
 
 img[src$='#floatright']
 {
 	float:right;
-	border: 10px solid transparent;
-	padding: 15px;
-	border-image: url(static/img/border.png) 30 round;
+	border: 10px solid transparent !important;
+	padding: 15px !important;
+	border-image: url(static/img/border.png) 30 round !important;
 }
