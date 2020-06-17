@@ -13,3 +13,12 @@ img[src$='#floatright']
 	padding: 15px !important;
 	border-image: url(static/img/border.png) 30 round !important;
 }
+
+.borderingRightClass
+
+{
+  float:right;
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(/static/img/border.png) 30 round;
+}
