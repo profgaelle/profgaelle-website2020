@@ -52,13 +52,13 @@ hero_media = ""
 
 [advanced]
  # Custom CSS. 
- # css_style = "img {float: right;}"
+ css_style = "img {float: right;}"
 
  # CSS class.
  css_class = ""
 
 +++
 
-{{< figure library="true" src="welcome.gif"}}
+{{figure library="true" src="welcome.gif"}}
 
 
