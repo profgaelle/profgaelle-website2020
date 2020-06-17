@@ -1,9 +1,11 @@
 img[src$='#floatleft']
 {
 	float:left;
+	border:0;
 }
 
 img[src$='#floatright']
 {
 	float:right;
+	border:0;
 }
