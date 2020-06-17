@@ -18,7 +18,7 @@ authors = ["Gaëlle Vallée-Tourangeau", "Frédéric Vallée-Tourangeau"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "In S. J. Cowley and F. Vallée-Tourangeau (Eds.), *Cognition Beyond the Brain* (2nd Ed.), New York: Springer"
+publication = "In S. J. Cowley and F. Vallée-Tourangeau (Eds.), *Cognition Beyond the Brain* (2nd Ed., pp. 133-154), New York: Springer"
 publication_short = "In *Cognition Beyond the Brain*"
 
 # Abstract and optional shortened version.
