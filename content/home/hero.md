@@ -49,6 +49,16 @@ hero_media = ""
 # Note. An optional note to show underneath the links.
 #[cta_note]
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" #data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+
+[advanced]
+ # Custom CSS. 
+ css_style = "img: float: right;"
+
+ # CSS class.
+ css_class = ""
+
 +++
 
-{{< figure library="true" src="welcome.gif" title="A caption" lightbox="true" >}}
+{{< figure library="true" src="welcome.gif"}}
+
+
