@@ -18,12 +18,10 @@ authors = ["Niyat Henok", "Frédéric Vallée-Tourangeau", "Gaëlle Vallée-Tour
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Psychological Research*"
-publication_short = "In *Psychological Research*"
+publication = "Henok, N., Vallée-Tourangeau, F., & Vallée-Tourangeau, G. (2020). Incubation and interactivity in insight problem solving. *Psychological Research*, *84*(1), 128–139. https://doi.org/10.1007/s00426-018-0992-9"
 
 # Abstract and optional shortened version.
-abstract = "Insight is commonly viewed as originating from the restructuring of a mental representation. Distributed cognition frameworks such as the Systemic Thinking Model (SysTM, Vallée-Tourangeau & Vallée-Tourangeau, 2017), however, assumes that information processing can be transformed when it is distributed across mental and material resources. The experiments reported here investigated whether interactivity enhanced incubation effects with the cheap necklace problem. Participants attempted to solve the problem in a low-interactivity condition with pen and paper or in a high-interactivity condition with a set of metal chains. Performance was substantially better in a task environment that fostered a higher degree of interactivity at Time 1. There was evidence of an incubation effect as participants significantly improved in performance after a 2-week gap, particularly in the highinteractivity condition. Experiment 2 showed that the context within which people can enact their thinking following incubation is key to improve problem-solving performance. When the problem presentation changed after a 2-week gap (low interactivity to high interactivity or high interactivity to low interactivity), performance only improved for those who worked on a highly interactive task at Time 2. Taken together, these findings underscore the importance of adopting a systemic perspective when investigating incubation effects in problem solving."
-abstract_short = "The experiments reported here investigated whether interactivity enhanced incubation effects with the cheap necklace problem."
+abstract = "Insight is commonly viewed as originating from the restructuring of a mental representation. Distributed cognition frameworks such as the Systemic Thinking Model (SysTM, Vallée-Tourangeau & Vallée-Tourangeau, 2017), however, assumes that information processing can be transformed when it is distributed across mental and material resources. The experiments reported here showed that interactivity enhanced incubation effects with the cheap necklace problem."
 
 # Is this a selected publication? (true/false)
 featured = true
