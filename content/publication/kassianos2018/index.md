@@ -18,7 +18,8 @@ authors = ["George Kassianos", "Ernest Kuchar", "Aneta Nitsch-Osuch", "Jan Kyncl
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Vaccine*"
+publication = "*Vaccine*, *36*(44), 6546-6552.
+"
 publication_short = "In *Vaccine*"
 
 # Abstract and optional shortened version.

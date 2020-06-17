@@ -18,12 +18,10 @@ authors = ["Angus Thomson", "Karis Robinson", "Gaëlle Vallée-Tourangeau"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Vaccine*"
-publication_short = "In *Vaccine*"
+publication = "In *Vaccine*,*34*(8), 1018-1024."
 
 # Abstract and optional shortened version.
-abstract = "Suboptimal vaccine uptake in both childhood and adult immunisation programs limits their full potential impact on global health. A recent progress review of the Global Vaccine Action Plan stated that “countries should urgently identify barriers and bottlenecks and implement targeted approaches to increase and sustain coverage”. However, vaccination coverage may be determined by a complex mix of demographic, structural, social and behavioral factors. To develop a practical taxonomy to organise the myriad possible root causes of a gap in vaccination coverage rates, we performed a narrative review of the literature and tested whether all non-socio-demographic determinants of coverage could be organised into 4 dimensions: Access, Affordability, Awareness and Acceptance. Forty-three studies were reviewed, from which we identified 23 primary determinants of vaccination uptake. We identified a fifth domain, Activation, which captured interventions such as SMS reminders which effectively nudge people towards getting vaccinated. The 5As taxonomy captured all identified determinants of vaccine uptake. This intuitive taxonomy has already facilitated mutual understanding of the primary determinants of suboptimal coverage within inter-sectorial working groups, a first step towards them developing targeted and effective solutions."
-abstract_short = "To develop a practical taxonomy to organise the myriad possible root causes of a gap in vaccination coverage rates, we performed a narrative review of the literature and tested whether all non-socio-demographic determinants of coverage could be organised into 4 dimensions: Access, Affordability, Awareness and Acceptance."
+abstract = "To develop a practical taxonomy to organise the myriad possible root causes of a gap in vaccination coverage rates, we performed a narrative review of the literature and tested whether all non-socio-demographic determinants of coverage could be organised into 4 dimensions: Access, Affordability, Awareness and Acceptance. Forty-three studies were reviewed, from which we identified 23 primary determinants of vaccination uptake. We identified a fifth domain, Activation, which captured interventions such as SMS reminders which effectively nudge people towards getting vaccinated."
 
 # Is this a selected publication? (true/false)
 featured = true

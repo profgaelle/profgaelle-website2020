@@ -18,7 +18,7 @@ authors = ["Niyat Henok", "Frédéric Vallée-Tourangeau", "Gaëlle Vallée-Tour
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Psychological Research*, *84*(1), 128–139. https://doi.org/10.1007/s00426-018-0992-9"
+publication = "*Psychological Research*, *84*(1), 128–139."
 
 # Abstract and optional shortened version.
 abstract = "Insight is commonly viewed as originating from the restructuring of a mental representation. Distributed cognition frameworks such as the Systemic Thinking Model (SysTM, Vallée-Tourangeau & Vallée-Tourangeau, 2017), however, assumes that information processing can be transformed when it is distributed across mental and material resources. The experiments reported here showed that interactivity enhanced incubation effects with the cheap necklace problem."

@@ -18,12 +18,10 @@ authors = ["Lisa G. Guthrie", "Frédéric Vallée-Tourangeau", "Gaëlle Vallée-
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Memory & Cognition*"
-publication_short = "In *Memory & Cognition*"
+publication = "In *Memory & Cognition*, *43*, 723-735."
 
 # Abstract and optional shortened version.
-abstract = "Outside the psychologist’s laboratory, thinking proceeds on the basis of a great deal of interaction with artefacts that are recruited to augment problem-solving skills. The role of interactivity in problem solving was investigated using a river-crossing problem. In Experiment 1A, participants completed the same problem twice, once in a low interactivity condition, and once in a high interactivity condition (with order counterbalanced across participants). Learning, as gauged in terms of latency to completion, was much more pronounced when the high interactivity condition was experienced second. When participants first completed the task in the high interactivity condition, transfer to the low interactivity condition during the second attempt was limited; Experiment 1B replicated this pattern of results. Participants thus showed greater facility to transfer their experience of completing the problem from a low to a high interactivity condition. Experiment 2 was designed to determine the amount of learning in a low and high interactivity condition; in this experiment participants completed the problem twice, but level of interactivity was manipulated between subjects. Learning was evident in both the low and high interactivity groups, but latency per move was significantly faster in the high interactivity group, in both presentations. So-called problem isomorphs instantiated in different task ecologies draw upon different skills and abilities; a distributed cognition analysis may provide a fruitful perspective on learning and transfer."
-abstract_short = "This study investigates the role of interactivity in problem solving using a river-crossing problem."
+abstract = "We investigated the role of interactivity in problem solving using a river-crossing problem. We found greater facility to transfer their experience of completing the problem from a low to a high interactivity condition as well as evidence that latency per move was significantly faster in the high interactivity group. So-called problem isomorphs instantiated in different task ecologies draw upon different skills and abilities; a distributed cognition analysis may provide a fruitful perspective on learning and transfer."
 
 # Is this a selected publication? (true/false)
 featured = true

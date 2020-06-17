@@ -18,8 +18,7 @@ authors = ["Gaëlle Vallée-Tourangeau", "Marianne Promberger", "Karis Moon", "A
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Vaccine*"
-publication_short = "In *Vaccine*"
+publication = "*Vaccine*, *36*(44), 6540-6545."
 
 # Abstract and optional shortened version.
 abstract = " Psychosocial studies of HCWs' decisions to get vaccinated have commonly drawn on subjective expected utility models to assess predictors of vaccination, assuming HCWs' choices result from a rational information-weighing process. By contrast, we recast those decisions as a commitment to vaccination and we aimed to understand why HCWs may want to (rather than believe they need to) get vaccinated against the flu. This article outlines the development and validation of two short scales to measure of cognitive empowerment towards flu vaccination and towards vaccination advocacy."
