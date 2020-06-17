@@ -23,7 +23,6 @@ bio: Gaëlle Vallée-Tourangeau is a professor of behavioural science and direct
 interests:
 - Peer-review judgment and decision-making
 - Problem-solving and creativity
-- Nudges and choice architecture
 - Motivation and decision-making
 
 education:
