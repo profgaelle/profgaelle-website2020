@@ -1,11 +1,15 @@
 img[src$='#floatleft']
 {
 	float:left;
-	border:0;
+	border: 10px solid transparent;
+	padding: 15px;
+	border-image: url(static/img/border.png) 30 round;
 }
 
 img[src$='#floatright']
 {
 	float:right;
-	border:0;
+	border: 10px solid transparent;
+	padding: 15px;
+	border-image: url(static/img/border.png) 30 round;
 }
