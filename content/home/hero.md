@@ -59,6 +59,6 @@ hero_media = ""
 
 +++
 
-{{figure library="true" src="welcome.gif"}}
+{{< figure library="true" src="welcome.gif" >}}
 
 
