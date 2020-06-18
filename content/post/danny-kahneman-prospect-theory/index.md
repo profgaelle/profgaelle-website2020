@@ -28,7 +28,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: "Image credit: Photo by Jan Genge on Unsplash"
+  caption: "Image credit: Photo by Jan Genge on Unsplash"
   focal_point: ""
   preview_only: false
 ---
