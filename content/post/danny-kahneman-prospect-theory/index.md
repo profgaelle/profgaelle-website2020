@@ -1,18 +1,23 @@
-+++
-title = "Reflections on Prospect Theory by Prof D. Kahneman"
-subtitle = "Keynote address at the 23rd Subjective Probability, Utility and Decision Making (SPUDM) conference (2011)."
+---
+title: "Reflections on Prospect Theory by Prof D. Kahneman"
+subtitle: "Keynote address at the 23rd Subjective Probability, Utility and Decision Making (SPUDM) conference (2011)."
+summary: "This post showcases a video of the keynote address by Professor Daniel Kahneman shot during the 23rd Subjective Probability, Utility and Decision Making (SPUDM) conference."
+authors:
+- gaelle-vallee-tourangeau
 
 date = 2019-05-15T00:00:00
 lastmod = 2019-05-15T00:00:00
 draft = false
 
+
+
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
 
 tags = ["Prospect Theory", "Keynote", "JDM research", "Daniel Kahneman", "History of psychology", "JDM resources", "Open science", "Academia"]
-categories = ["Prof Gaëlle's Blog"]
+categories = ["DSci Blog"]
 
-summary = ""
+
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -35,7 +40,7 @@ projects = ["heuri"]
   # Show image only in page previews?
   preview_only = false
 
-+++
+---
 
 This post showcases a video of the keynote address by Professor Daniel Kahneman, winner of the Nobel Memorial Prize in Economic Sciences. The video was shot during the 23rd Subjective Probability, Utility and Decision Making (SPUDM) conference, which I chaired and was held in August 2011 at Kingston University, London.
 

@@ -19,13 +19,13 @@
   weight = 20
 
 [[main]]
-  name = "Blog"
-  url = "#posts"
+  name = "Projects"
+  url = "#projects"
   weight = 30
 
 [[main]]
-  name = "Research"
-  url = "#projects"
+  name = "DSci Blog"
+  url = "post/"
   weight = 40
 
 #[[main]]
