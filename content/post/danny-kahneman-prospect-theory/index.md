@@ -4,42 +4,33 @@ subtitle: "Keynote address at the 23rd Subjective Probability, Utility and Decis
 summary: "This post showcases a video of the keynote address by Professor Daniel Kahneman shot during the 23rd Subjective Probability, Utility and Decision Making (SPUDM) conference."
 authors:
 - gaelle-vallee-tourangeau
+tags:
+- Prospect Theory
+- Keynote
+- JDM research
+- Daniel Kahneman
+- History of psychology
+- JDM resources
+- Open science
+- Academia
 
-date = 2019-05-15T00:00:00
-lastmod = 2019-05-15T00:00:00
-draft = false
+categories:
+- DSci Blog
 
-
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
-
-tags = ["Prospect Theory", "Keynote", "JDM research", "Daniel Kahneman", "History of psychology", "JDM resources", "Open science", "Academia"]
-categories = ["DSci Blog"]
-
-
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects = ["heuri"]
+date: "2016-04-20T00:00:00Z"
+lastmod: "2019-04-17T00:00:00Z"
+featured: false
+draft: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
-  # Caption (optional)
-  caption = "Image credit: Photo by Jan Genge on Unsplash"
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
-
-  # Show image only in page previews?
-  preview_only = false
-
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: 'Image credit: "Image credit: Photo by Jan Genge on Unsplash"
+  focal_point: ""
+  preview_only: false
 ---
 
 This post showcases a video of the keynote address by Professor Daniel Kahneman, winner of the Nobel Memorial Prize in Economic Sciences. The video was shot during the 23rd Subjective Probability, Utility and Decision Making (SPUDM) conference, which I chaired and was held in August 2011 at Kingston University, London.
