@@ -112,7 +112,7 @@ email = "g.vallee-tourangeau@kingston.ac.uk"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-{icon = "twitter", icon_pack = "fab", name = "DM us on Twitter", link = "https://twitter.com/profgaelle"},
+{icon = "twitter", icon_pack = "fab", name = "DM Prof Gaëlle on Twitter", link = "https://twitter.com/messages/compose?recipient_id=24664417"},
 {icon = "users", icon_pack = "fas", name = "Chat on MS Teams", link = "https://teams.microsoft.com/l/chat/0/0?users=g.vallee-tourangeau@kingston.ac.uk"}
 ]
 
