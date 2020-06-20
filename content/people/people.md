@@ -17,7 +17,6 @@ subtitle = "Meet the team working in the DSci lab. The lab includes PhD students
   user_groups = ["Principal Investigator",
                  "Researchers",
                  "Research Assistant",
-                 "Collaborators",
                  "Visitors",
                  "Alumni"]
 [design]
