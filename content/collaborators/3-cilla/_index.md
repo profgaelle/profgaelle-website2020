@@ -6,7 +6,7 @@ name: Cilla Harries
 superuser: false
 
 # Role/position
-role: Professor of Occupational Therapy
+title: Professor of Occupational Therapy
 
 # Organizations/Affiliations
 orgurl: "https://www.healthcare.ac.uk/staff/professor-priscilla-harries-phd-msc-dipcot-fhea-frcot/"
