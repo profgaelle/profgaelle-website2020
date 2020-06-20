@@ -1,16 +1,21 @@
 ---
 # Display name
-name: Cilla Harries
+title: Cilla Harries
+
+# Username (this should match the folder name)
+collaborators:
+- 3-cilla
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-title: Professor of Occupational Therapy
+role: Professor of Occupational Therapy
 
 # Organizations/Affiliations
-orgurl: "https://www.healthcare.ac.uk/staff/professor-priscilla-harries-phd-msc-dipcot-fhea-frcot/"
-orgname: Kingston University & St George’s, University of London
+organizations:
+- name: Kingston University & St George’s, University of London
+  url: "https://www.healthcare.ac.uk/staff/professor-priscilla-harries-phd-msc-dipcot-fhea-frcot/"
 
 user_groups:
 - Collaborators
