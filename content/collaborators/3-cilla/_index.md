@@ -1,10 +1,6 @@
 ---
 # Display name
-title: Professor Cilla Harries
-
-# Username (this should match the folder name)
-authors:
-- 3-cilla
+title: Professor Priscilla Harries
 
 # Is this the primary user of the site?
 superuser: false
