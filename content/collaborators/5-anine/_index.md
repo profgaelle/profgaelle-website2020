@@ -6,7 +6,7 @@ name: Anine Cecilie Riege
 superuser: false
 
 # Role/position
-role: Postdoctoral Fellow
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 orgurl: "https://www.sv.uio.no/psi/english/people/aca/aniner/"
