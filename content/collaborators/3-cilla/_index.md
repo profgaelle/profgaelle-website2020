@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Cilla Harries
+title: Professor Cilla Harries
 
 # Username (this should match the folder name)
-collaborators:
+authors:
 - 3-cilla
 
 # Is this the primary user of the site?
