@@ -4,7 +4,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear in.
 
-title = "Current collaborators"
+title = "Collaborators"
 
 [design.spacing]
 # Customize the section spacing. Order is top, right, bottom, left.
