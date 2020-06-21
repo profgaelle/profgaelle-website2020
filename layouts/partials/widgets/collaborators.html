@@ -1,17 +1,10 @@
-{{/* Collaborators Widget */}}
+{{/* Collaborator Widget */}}
 
 {{/* Initialise */}}
 {{ $ := .root }}
 {{ $page := .page }}
 {{ $show_social := $page.Params.design.show_social | default false }}
 {{ $show_interests := $page.Params.design.show_interests | default true }}
-
-{{ $author := "" }}
-{{ if .author }}
-  {{ $author = .author }}
-{{ else }}
-  {{ $author = $page.Params.author }}
-{{end}}
 
 <div class="row justify-content-center people-widget">
   {{ with $page.Title }}
@@ -45,8 +38,8 @@
   {{ end }}
   <div class="col-12 col-sm-auto people-person">
     {{ $src := "" }}
-    {{ if site.Params.gravatar }}
-      {{ $src = printf "https://s.gravatar.com/avatar/%s?s=200" (md5 .Params.email) }}
+    {{ if site.Params.avatar.gravatar }}
+      {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
     {{ else if $avatar }}
       {{ $avatar_image := $avatar.Fill "270x270 Center" }}
       {{ $src = $avatar_image.RelPermalink }}
@@ -56,11 +49,11 @@
       {{with $link}}<a href="{{.}}">{{end}}<img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">{{if $link}}</a>{{end}}
     {{ end }}
 
-<div class="portrait-title">
-  {{ range $person.organizations }}
-      <h2>{{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}{{ .Title }}{{if .url}}</a>{{end}}</h2>
-  {{ end }}
-  {{ with .Params.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
+    <div class="portrait-title">
+      <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
+      {{ with .Params.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
+      {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
+      {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
     </div>
   </div>
   {{ end }}
