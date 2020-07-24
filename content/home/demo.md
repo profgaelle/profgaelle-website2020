@@ -52,7 +52,7 @@ subtitle = ""
  css_class = ""
 +++
 {{< figure library="true" src="welcome.gif" class="borderingRightClass" >}}
-Welcome to Prof Gaëlle’s Decision Science & creative insights (DSci) Lab at [Kingston Business School](https://www.kingston.ac.uk/faculties/faculty-of-business-and-social-sciences/schools/kingston-business-school/). Our research focuses on the role played by social, physical and/or mental processes in decision-making, uncertainty judgements and creative thinking both in the lab and in applied settings.
+Welcome to the Decision Science & creative insights (DSci) Lab at [Kingston Business School](https://www.kingston.ac.uk/faculties/faculty-of-business-and-social-sciences/schools/kingston-business-school/). Our research focuses on the role played by social, physical and/or mental processes in decision-making, uncertainty judgements and creative thinking both in the lab and in applied settings.
 
 To study these processes, we use a combination experiments (e.g., online experiments and surveys, interactive lab experiments, and eye-tracking experiments) and observational studies (e.g., video-based behaviour observations in the lab, video-based process-tracing via remote screen-sharing).
 
