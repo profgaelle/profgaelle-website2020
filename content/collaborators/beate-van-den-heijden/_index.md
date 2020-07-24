@@ -1,6 +1,6 @@
 ---
 # Display name
-name: B.I.J.M. van der Heijden (Beatrice)
+title: Professor B.I.J.M. van der Heijden (Beatrice)
 
 # Is this the primary user of the site?
 superuser: false
@@ -9,8 +9,9 @@ superuser: false
 role: Professor of Strategic Human Resource Management
 
 # Organizations/Affiliations
-orgurl: https://www.ru.nl/english/people/heijden-b-van-der/
-orgname: Radboud University, The Netherlands
+organizations:
+- name: Radboud University, The Netherlands
+  url: "https://www.ru.nl/english/people/heijden-b-van-der/"
 
 user_groups:
 - Collaborators
