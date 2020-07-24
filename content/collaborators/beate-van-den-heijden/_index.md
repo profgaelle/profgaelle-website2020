@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Professor B.I.J.M. van der Heijden (Beatrice)
+title: B.I.J.M. van der Heijden (Beatrice)
 
 # Is this the primary user of the site?
 superuser: false

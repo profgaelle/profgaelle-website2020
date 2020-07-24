@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Professor Priscilla Harries
+title: Priscilla Harries
 
 # Is this the primary user of the site?
 superuser: false
