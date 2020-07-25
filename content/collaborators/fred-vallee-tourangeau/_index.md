@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Frédéric Vallée-Tourangeau
+title: Frédéric Vallée-Tourangeau
 
 # Is this the primary user of the site?
 superuser: false
@@ -9,8 +9,9 @@ superuser: false
 role: Professor of Psychology
 
 # Organizations/Affiliations
-orgurl: "https://www.kingston.ac.uk/staff/profile/professor-frederic-vallee-tourangeau-342/"
-orgname: Kingston University
+organizations:
+- name: Kingston University
+  url: "https://www.kingston.ac.uk/staff/profile/professor-frederic-vallee-tourangeau-342/"
 
 user_groups:
 - Collaborators
