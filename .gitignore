@@ -1,13 +1,11 @@
 # IDEs
 .idea/
-
 # Hugo
 resources/
 public/
 .Rproj.user
-
 # Jupyter
 .ipynb_checkpoints/
-
 # Node
 node_modules/
+.httr-oauth
