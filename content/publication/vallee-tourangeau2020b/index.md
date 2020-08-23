@@ -18,8 +18,8 @@ authors = ["Frédéric Vallée-Tourangeau","Gaëlle Vallée-Tourangeau"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In Glăveanu V. (eds) *The Palgrave Encyclopedia of the Possible*. Palgrave Macmillan, Cham"
-publication_short = "In *The Palgrave Encyclopedia of the Possible*"
+publication = "In *New Ideas in Psychology*"
+publication_short = "In *New Ideas in Psychology*"
 
 # Abstract and optional shortened version.
 abstract = "Interactive processes configure extended systems within which each human agent is embedded. Yet much research on higher cognition, such as problem solving, reflects an implicit but deep commitment to methodological individualism that casts the agent as the ontological locus of cognition, and largely dictates the nature of the research enterprise. Conversely, a methodological interactivism forces one to acknowledge the participative yet not all-encompassing role of capacities such as working memory and thinking dispositions; it also encourages the granular mapping of the cognitive ecosystem from which new ideas emerge."
