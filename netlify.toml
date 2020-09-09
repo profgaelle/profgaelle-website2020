@@ -25,3 +25,10 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[redirects]]
+  from = "/bio/"
+  to = "author/gaelle-vallee-tourangeau/"
+  status = 301
+  force = false
+  query = {path = ":path"}
