@@ -28,7 +28,7 @@
 
 [[redirects]]
   from = "/bio"
-  to = "/author/gaelle-vallee-tourangeau/"
+  to = "/author/gaelle-vallee-tourangeau"
   status = 301
   force = false
   query = {path = ":path"}
