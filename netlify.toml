@@ -27,7 +27,7 @@
     Content-Type = "application/rss+xml"
 
 [[redirects]]
-  from = "/bio/"
+  from = "/bio"
   to = "/author/gaelle-vallee-tourangeau/"
   status = 301
   force = false
