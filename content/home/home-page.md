@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 01  # Order that this section will appear.
 
 title = "Welcome to profgaelle.com"
-subtitle = ""
+subtitle = "Welcome to profgaelle.com, Gaëlle Vallée-Tourangeau's website."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -51,8 +51,6 @@ subtitle = ""
 +++
 {{< figure library="true" src="welcome.gif" class="borderingRightClass" >}}
 
-Welcome to profgaelle.com, Gaëlle Vallée-Tourangeau's website.
-
-From this website, you can access information, academic papers, and resources related to Gaelle's areas of research.
+From this website, you can access information, [academic papers](/publication/), and resources related to Gaelle's areas of research.
 
 Please feel free to link to this website or any of its content and use it for your personal use. Unless otherwise noted, this website and its content © Gaëlle Vallée-Tourangeau 2020.
