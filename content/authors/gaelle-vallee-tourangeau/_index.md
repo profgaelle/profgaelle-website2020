@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Welcome to profgaelle.com
+# title: Welcome to profgaelle.com
 
 # Username (this should match the folder name)
 authors:
