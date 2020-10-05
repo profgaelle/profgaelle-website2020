@@ -84,5 +84,7 @@ user_groups:
 
 From this website, you can access information related to behavioural science, including [academic papers](/publication/), resources related to Gaëlle's [areas of research](/research/), and the [Decision Science & creative insights Lab](/dsci-lab/).
 
-| *Impact* | *Research Assessment* | *Open Science* | *Behavioural Science* |
-|[Psychology and Covid19](/blog/psychology-and-covid19/)|[Self-assessment for the REF](blog/REF-self-assessment/)|[Reproducible literature searches](/blog/reproducible-lit-search/)|[Danny Kahneman on Prospect theory](/blog/danny-kahneman-prospect-theory)|
+ **Impact** | **Research Assessment** | **Open Science** | **Behavioural Science** |
+ ---------- | ----------------------- | ---------------- | ----------------------- |
+[Psychology and Covid19](/blog/psychology-and-covid19/)|[Self-assessment for the REF](blog/REF-self-assessment/)|[Reproducible literature searches](/blog/reproducible-lit-search/)|[Danny Kahneman on Prospect theory](/blog/danny-kahneman-prospect-theory)
+
