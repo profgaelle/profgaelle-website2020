@@ -4,7 +4,7 @@
 
 # Username (this should match the folder name)
 authors:
-- gaelle-vallee-tourangeau
+- admin
 
 # Is this the primary user of the site?
 superuser: true
