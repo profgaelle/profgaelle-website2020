@@ -69,4 +69,5 @@ email: ""
 user_groups:
 - Principal Investigators
 ---
-I am a professor of behavioural science, director of research and enterprise for Kingston Business School, and principal investigator in the DART research lab. I am interested in the role played by social, physical and/or mental processes in cognition and knowledge work. My areas of research expertise include occupational vaccination decisions, the mediating role of interactivity in cognitive performance, as well the role of intuition and deliberation a.k.a. “fast and slow” thinking.
+I am a professor of behavioural science and director of research and enterprise for Kingston Business School. I joined Kingston Business School in January 2016. 
+After studying at Paris Ouest University (1998, MSc Social Psychology) and the University of Hertfordshire (2004, PhD), I began my career as a lecturer in Decision Sciences at Leeds University Business School (2001-2004). I then worked as a lecturer in Psychology in the School of Psychology at the University of Toulouse (2004-2009) before joining the Psychology Department at Kingston University in 2009. I joined Kingston Business School as a professor of behavioural science in January 2016.
