@@ -1,6 +1,6 @@
 ---
 # Display name
-# title: Welcome to profgaelle.com
+# title: Welcome
 
 # Username (this should match the folder name)
 authors:
@@ -82,7 +82,7 @@ email: ""
 # - Principal Investigator
 ---
 
-From this website, you can access information related to behavioural science, including [academic papers](/publication/), resources related to Gaëlle's [areas of research](/research/), and the [Decision Science & creative insights Lab](/dsci-lab/).
+Welcome to profgaelle.com, the personal website of Gaëlle Vallée-Tourangeau, professor of Behavioural Science at [Kingston Business School](https://www.kingston.ac.uk/staff/profile/professor-gaeumllle-valleacutee-tourangeau-63/), [Kingston University London](https://www.kingston.ac.uk). From this website, you can access information related to behavioural science, including [academic papers](/publication/), resources related to Gaëlle's [areas of research](/research/), and the [Decision Science & creative insights Lab](/dsci-lab/).
 
  **Research Impact** | **Research Evaluaution** | **Open Science** | **Behavioural Science** |
  ---------- |  ---------- |  ---------- |  ---------- |
