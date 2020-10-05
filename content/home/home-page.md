@@ -51,6 +51,6 @@ subtitle = "Welcome to profgaelle.com, Gaëlle Vallée-Tourangeau's website."
 +++
 {{< figure library="true" src="gvt2020ID-3.png" width=200px class="alignRight" >}}
 
-From this website, you can access information, [academic papers](/publication/), and resources related to Gaelle's areas of research.
+From this website, you can access information, [academic papers](/publication/), and resources related to Gaëlle's areas of research.
 
 Please feel free to link to this website or any of its content and use it for your personal use. Unless otherwise noted, this website and its content © Gaëlle Vallée-Tourangeau 2020.
