@@ -51,6 +51,11 @@ subtitle = "Welcome to profgaelle.com, Gaëlle Vallée-Tourangeau's website."
 +++
 {{< figure library="true" src="gvt2020ID-3.png" width=200px class="alignLeft" >}}
 
-From this website, you can access information, [academic papers](/publication/), and resources related to Gaëlle's areas of research.
+From this website, you can access information related to behavioural science, including [academic papers](/publication/), resources related to Gaëlle's [areas of research](/research/), and the [Decision Science & creative insights Lab](/dsci-lab/).
 
-Please feel free to link to this website or any of its content and use it for your personal use. Unless otherwise noted, this website and its content © Gaëlle Vallée-Tourangeau 2020.
+| *Impact* | *Research Assessment* | *Open Science* | *Behavioural Science* |
+|[Psychology and Covid19](/blog/psychology-and-covid19/)|[Self-assessment for the REF](blog/REF-self-assessment/)|[Reproducible literature searches](/blog/reproducible-lit-search/)|[Danny Kahneman on Prospect theory](/blog/danny-kahneman-prospect-theory)|
+
+
+
+
