@@ -6,16 +6,14 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 011  # Order that this section will appear.
+weight = 01  # Order that this section will appear.
 
-title = "Introduction"
+title = "Welcome to profgaelle.com"
 subtitle = ""
-
-
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -52,10 +50,9 @@ subtitle = ""
  css_class = ""
 +++
 {{< figure library="true" src="welcome.gif" class="borderingRightClass" >}}
-Welcome to the Decision Science & creative insights (DSci) Lab at [Kingston Business School](https://www.kingston.ac.uk/faculties/faculty-of-business-and-social-sciences/schools/kingston-business-school/). Our research focuses on the role played by social, physical and/or mental processes in decision-making, uncertainty judgements and creative thinking both in the lab and in applied settings.
 
-To study these processes, we use a combination experiments (e.g., online experiments and surveys, interactive lab experiments, and eye-tracking experiments) and observational studies (e.g., video-based behaviour observations in the lab, video-based process-tracing via remote screen-sharing).
+Welcome to profgaelle.com, Gaëlle Vallée-Tourangeau's website.
 
-Our research seeks to contribute to our understanding of applied issues such as the the cognitive processes underpinning peer-reviewers’ judgments of in research grant funding applications, the motives and barriers to sustainable consumption of children's toys, the role of healthcare workers’ motivations in flu vaccination decisions, executives’ career decision trajectories, and traders’ investment decisions. In addition, we also study more theoretical issues such as how behaviour, sight, and imagination interact with external choice and problem architectures to produce decisions and creative solutions.
+From this website, you can access information, academic papers, and resources related to Gaelle's areas of research.
 
-If you are an undergraduate or postgraduate at Kingston University interested in research with our lab, please send a short email about your interest and background, and a cv and any previous written research report to [g.vallee-tourangeau@kingston.ac.uk](mailto:g.vallee-tourangeau@kingston.ac.uk).
+Please feel free to link to this website or any of its content and use it for your personal use. Unless otherwise noted, this website and its content © Gaëlle Vallée-Tourangeau 2020.
