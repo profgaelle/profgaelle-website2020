@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gaëlle Vallée-Tourangeau
+title: Welcome to profgaelle.com
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Behavioural Science
+#role: Professor of Behavioural Science
 
 # Organizations/Affiliations
-organizations:
-- name: Kingston University
-  url: "https://www.kingston.ac.uk/staff/profile/professor-gaelle-vallee-tourangeau-63/"
+#organizations:
+#- name: Kingston University
+#  url: "https://www.kingston.ac.uk/staff/profile/professor-gaelle-vallee-tourangeau-63/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Gaëlle Vallée-Tourangeau is a professor of behavioural science and director of research and enterprise for Kingston Business School. Her current research interests include peer-review judgment and decision-making, the impact of digital transformation on human problem-solving and creativity, as well as choice architecture and the role of motivations in decision-making. 
+#bio: Gaëlle Vallée-Tourangeau is a professor of behavioural science and director of research and enterprise for Kingston Business School. Her #current research interests include peer-review judgment and decision-making, the impact of digital transformation on human problem-solving and #creativity, as well as choice architecture and the role of motivations in decision-making. 
 
-interests:
-- Peer-review judgment and decision-making
-- Problem-solving and creativity
-- Motivation and decision-making
+#interests:
+#- Peer-review judgment and decision-making
+#- Problem-solving and creativity
+#- Motivation and decision-making
 
-education:
-  courses:
-  - course: PhD in Psychology
-    institution: University of Hertfordshire
-    year: 2004
-  - course: MSc Experimental Social Psychology
-    institution: Paris Nanterre University
-    year: 1998
-  - course: BSc in Psychology
-    institution: Paris Nanterre University
-    year: 1997
+#education:
+#  courses:
+#  - course: PhD in Psychology
+#    institution: University of Hertfordshire
+#    year: 2004
+#  - course: MSc Experimental Social Psychology
+#    institution: Paris Nanterre University
+#    year: 1998
+#  - course: BSc in Psychology
+#    institution: Paris Nanterre University
+#    year: 1997
 
 
 # Social/Academic Networking
@@ -61,12 +61,12 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Gaelle_Vallee-Tourangeau
-- icon: instagram
-  icon_pack: fab
-  link: https://instagram.com/profgaellevt
-- icon: github
-  icon_pack: fab
-  link: https://github.com/profgaelle
+#- icon: instagram
+#  link: https://instagram.com/profgaellevt
+#  icon_pack: fab
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/profgaelle
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -82,8 +82,7 @@ user_groups:
 - Principal Investigator
 ---
 
-Gaëlle Vallée-Tourangeau a professor of Behavioural Science in the Department of Management at Kingston University Business School. She studied at Paris Ouest University (1998, MSc Social Psychology) and the University of Hertfordshire (2004, PhD) then was a lecturer at the Leeds University Business School (2001-2004) and the University of Toulouse (2004-2009) before joining Kingston University in 2009.
+From this website, you can access information related to behavioural science, including [academic papers](/publication/), resources related to Gaëlle's [areas of research](/research/), and the [Decision Science & creative insights Lab](/dsci-lab/).
 
-Her expertise lies in behavioural sciences, judgment and decision-making, thinking and creative problem-solving. Her current research interests and projects focus on peer-review judgments and decision-making, the impact of digital transformation on human cognition and creativity, as well as choice architecture and the role of motivations in decision-making. She leads the Decision Science and creative insights (DSci) Lab, which conducts behavioural science research to promote effective, ethical and sustainable judgment and decision-making and innovative problem-solving.
-
-The public outputs from her research includes over 60 journal articles, book chapters, and conference proceedings. Her work has been published in leading psychology journals such as the Journal of Experimental Psychology - General, Psychological Science, Cognition, Memory & Cognition and Acta Psychologica among others. Her research has been funded by the Fyssen foundation (2004), the French National Research Agency (2008), the Leverhulme Trust (2011), Sanofi-Pasteur (2013), and the Wellcome Trust (2019).
+| *Impact* | *Research Assessment* | *Open Science* | *Behavioural Science* |
+|[Psychology and Covid19](/blog/psychology-and-covid19/)|[Self-assessment for the REF](blog/REF-self-assessment/)|[Reproducible literature searches](/blog/reproducible-lit-search/)|[Danny Kahneman on Prospect theory](/blog/danny-kahneman-prospect-theory)|
