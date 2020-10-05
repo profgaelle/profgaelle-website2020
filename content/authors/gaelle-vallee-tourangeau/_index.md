@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Gaëlle Vallée-Tourangeau
+title: Gaëlle Vallée-Tourangeau
 
 # Username (this should match the folder name)
 authors:

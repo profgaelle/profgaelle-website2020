@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Ana Wheelock-Zalaquett
+title: Ana Wheelock-Zalaquett
 
 # Username (this should match the folder name)
 authors:
