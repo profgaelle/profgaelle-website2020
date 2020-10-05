@@ -13,6 +13,6 @@ header:
   image: ""
 ---
 
-Broadly speaking, my research focuses on better understanding how people think, solve problems and make decisions.
+Broadly speaking, my research focuses on better understanding how people think, solve problems and make decisions. Within these remits, I have contributed to different research programmes which are summarised below.
 
-Within these remits, I have contributed to different research programmes which are summarised below.
+
