@@ -9,12 +9,11 @@ active = true  # Activate this widget? true/false
 weight = 01  # Order that this section will appear.
 
 title = "Welcome to profgaelle.com"
-subtitle = "{{< figure library="true" src="gvt2020ID-3.png" width=200px class="alignLeft" >}}
-Welcome to profgaelle.com, Gaëlle Vallée-Tourangeau's website."
+subtitle = "Welcome to profgaelle.com, Gaëlle Vallée-Tourangeau's website."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
