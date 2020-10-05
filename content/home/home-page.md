@@ -9,7 +9,8 @@ active = true  # Activate this widget? true/false
 weight = 01  # Order that this section will appear.
 
 title = "Welcome to profgaelle.com"
-subtitle = "Welcome to profgaelle.com, Gaëlle Vallée-Tourangeau's website."
+subtitle = "{{< figure library="true" src="gvt2020ID-3.png" width=200px class="alignLeft" >}}
+Welcome to profgaelle.com, Gaëlle Vallée-Tourangeau's website."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -49,7 +50,6 @@ subtitle = "Welcome to profgaelle.com, Gaëlle Vallée-Tourangeau's website."
  # CSS class.
  css_class = ""
 +++
-{{< figure library="true" src="gvt2020ID-3.png" width=200px class="alignLeft" >}}
 
 From this website, you can access information related to behavioural science, including [academic papers](/publication/), resources related to Gaëlle's [areas of research](/research/), and the [Decision Science & creative insights Lab](/dsci-lab/).
 
