@@ -9,19 +9,9 @@
   weight = 10
 
 [[main]]
-  name = "CV"
-  url = "#"
-  weight = 20
-
-[[main]]
   name = "Research"
   url = "project/"
   weight = 30
-
-[[main]]
-  name = "Publications"
-  url = "publication/"
-  weight = 40
 
 [[main]]
   name = "DSci Lab"
@@ -29,19 +19,19 @@
   weight = 50
 
 [[main]]
-  name = "Blog"
-  url = "blog/"
-  weight = 60
+  name = "Publications"
+  url = "publication/"
+  weight = 40
 
 #[[main]]
 #  name = "Courses"
 #  url = "courses/"
 #  weight = 50
 
-#[[main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 60
+[[main]]
+  name = "Blog"
+  url = "blog/"
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -49,3 +39,12 @@
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 70
+
+
+
+#[[main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 60
+
+
