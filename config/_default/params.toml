@@ -26,7 +26,7 @@ font = "gaelle"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -71,7 +71,7 @@ diagram = false
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = false
+privacy_pack = true
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
@@ -112,8 +112,8 @@ email = "g.vallee-tourangeau@kingston.ac.uk"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-{icon = "twitter", icon_pack = "fab", name = "DM Prof Gaëlle on Twitter", link = "https://twitter.com/messages/compose?recipient_id=24664417"},
-{icon = "users", icon_pack = "fas", name = "Chat on MS Teams", link = "https://teams.microsoft.com/l/chat/0/0?users=g.vallee-tourangeau@kingston.ac.uk"}
+#{icon = "twitter", icon_pack = "fab", name = "DM Prof Gaëlle on Twitter", link = "https://twitter.com/messages/compose?recipient_id=24664417"},
+#{icon = "users", icon_pack = "fas", name = "Chat on MS Teams", link = "https://teams.microsoft.com/l/chat/0/0?users=g.vallee-tourangeau@kingston.ac.uk"}
 ]
 
 ############################
@@ -121,7 +121,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "GVT_ID_SPUDM25.jpg"
+sharing_image = "gvt2020ID-3.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "profgaelle"
