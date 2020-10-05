@@ -4,7 +4,7 @@ name: Gaëlle Vallée-Tourangeau
 
 # Username (this should match the folder name)
 authors:
-- gaelle-vallee-tourangeau
+- 1-gaelle
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,10 +23,12 @@ organizations:
 bio: My research focuses on understanding how people handle risk and uncertainty. How they perceive and communicate risks, how they make decisions in the face of uncertainty.
 
 interests:
-- Peer-review judgment and decision-making
-- Problem-solving and creativity
-- Motivation and decision-making
-
+- Judgement and Decision-making
+- Thinking and Reasoning
+- Distributed Cognition
+- Experimental Pragmatics
+- Heuristics and Biases
+- Dual process theories
 
 education:
   courses:
@@ -34,10 +36,10 @@ education:
     institution: University of Hertfordshire
     year: 2004
   - course: MSc in Social Psychology
-    institution: Paris-Nanterre University
+    institution: Université Paris-Nanterre
     year: 1998
   - course: BSc in Psychology
-    institution: Paris-Nanterre University
+    institution: Université Paris-Nanterre
     year: 1997
 
 # Social/Academic Networking
@@ -62,7 +64,7 @@ social:
   link: https://www.linkedin.com/in/profgaelle/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "g.valleetourangeau@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
