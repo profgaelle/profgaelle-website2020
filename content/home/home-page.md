@@ -49,7 +49,7 @@ subtitle = "Welcome to profgaelle.com, Gaëlle Vallée-Tourangeau's website."
  # CSS class.
  css_class = ""
 +++
-{{< figure library="true" src="gvt2020ID-3.png" width=200px class="alignRight" >}}
+{{< figure library="true" src="gvt2020ID-3.png" width=200px class="alignLeft" >}}
 
 From this website, you can access information, [academic papers](/publication/), and resources related to Gaëlle's areas of research.
 
