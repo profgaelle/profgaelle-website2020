@@ -9,13 +9,14 @@ tags:
 - Keynote
 - JDM research
 - Daniel Kahneman
-- History of psychology
+- History of behavioural sciences
 - JDM resources
 - Open science
 - Academia
 
 categories:
-- DSci Blog
+- Blog
+- Behavioural Science
 
 date: "2016-04-20T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
