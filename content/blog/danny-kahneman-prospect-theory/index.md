@@ -14,6 +14,9 @@ tags:
 - Open science
 - Academia
 
+projects: 
+- heuri
+
 categories:
 - Blog
 - Behavioural Science
