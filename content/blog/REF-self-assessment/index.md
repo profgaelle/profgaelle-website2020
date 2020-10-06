@@ -7,7 +7,7 @@ lastmod = 2019-05-15T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [Gaëlle Vallée-Tourangeau]
+authors = ["Gaëlle Vallée-Tourangeau"]
 
 tags = ["Research quality", "Research Excellence", "REF2020", "Academia"]
 categories = ["Blog", "Research Evaluation"]
