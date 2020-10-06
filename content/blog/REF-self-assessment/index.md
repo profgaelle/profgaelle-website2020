@@ -7,10 +7,10 @@ lastmod = 2019-05-15T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = [Gaëlle Vallée-Tourangeau]
 
 tags = ["Research quality", "Research Excellence", "REF2020", "Academia"]
-categories = ["DSci Blog"]
+categories = ["Blog", "Research Evaluation"]
 
 summary = "How good is your research? How do you reflect on the quality of your outputs and aim to develop your skills as a researcher? In this post I use the Research Excellence Framework as a basis for discussing what research excellence may look like as well as providing tips to increase the quality of your research."
 
