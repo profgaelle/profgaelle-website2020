@@ -27,7 +27,7 @@ superuser: true
 
 Welcome to profgaelle.com, the personal website of Gaëlle Vallée-Tourangeau, professor of Behavioural Science at [Kingston Business School](https://www.kingston.ac.uk/staff/profile/professor-gaeumllle-valleacutee-tourangeau-63/), [Kingston University London](https://www.kingston.ac.uk). From this website, you can access information related to behavioural science, including [academic papers](/publication/), resources related to Gaëlle's [areas of research](/research/), and the [Decision Science & creative insights Lab](/dsci-lab/).
 
- **Research Impact** | **Research Evaluaution** | **Open Science** | **Behavioural Science** |
+ **Research Impact** | **Research Evaluation** | **Open Science** | **Behavioural Science** |
  ---------- |  ---------- |  ---------- |  ---------- |
 [Psychology and Covid19](/blog/psychology-and-covid19/)|[Self-assessment for the REF](blog/REF-self-assessment/)|[Reproducible literature searches](/blog/reproducible-lit-search/)|[Danny Kahneman on Prospect theory](/blog/danny-kahneman-prospect-theory)
 
