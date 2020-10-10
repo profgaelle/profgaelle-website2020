@@ -3,7 +3,7 @@ title: Test post
 subtitle: This is a test
 date: 2020-10-06T06:45:09.385Z
 summary: This is a test summary.
-draft: false
+draft: true
 featured: false
 authors:
   - gaelle-vallee-tourangeau
