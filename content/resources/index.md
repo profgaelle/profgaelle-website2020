@@ -1,10 +1,10 @@
 ---
 title: Resources for behavioural science research
-summary: This section contains curated links which could be useful for people interested in open and responsible research practices, the study of judgment, decision-making and problem-solving. It also includes resources for those who are interested in learning more about knowledge sharing, dissemination and impact.
+summary: In this section I share curated links which I found useful and may interest people who want to learn more about open and responsible research practices, dissemination and impact and tools for writing and conducting behavioural science research.
 date: 10/10/2020
 lastmod: 10/10/2020
 ---
-This section contains curated links to useful content, tutorials, videos related to behavioural science, dissemination and impact.
+In this section I share curated links which I found useful and may interest people who want to learn more about open and responsible research practices, dissemination and impact and tools for writing and conducting behavioural science research.
 
 ## Resources for responsible research and open science
 
