@@ -24,7 +24,7 @@ Coming soon...
 - Wowchemy (previously hugo academic)
 - Blog writing 
 
-### Resources for responsible research and open science
+### Resources for responsible research and open science
 
 - [SIPS](https://improvingpsych.org/): a learned society which brings together scholars working to improve methods and practices in psychological science. All the resources from the last SIPS conference are available on the OSF website [here](https://osf.io/vxq9d/). I recommend watching the videocast by Balazs Aczel, available [here](https://osf.io/2aryd/), starts at 18m30s.
 - [RRBM](https://www.rrbm.network/): a virtual organisation dedicated to inspiring, encouraging, and supporting credible and useful research in the business and management disciplines. I encouraged anyone to read (and reflect on!) the [principles of responsible science](https://www.rrbm.network/position-paper/principles-of-responsible-science/). 
