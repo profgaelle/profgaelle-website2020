@@ -1,9 +1,17 @@
 ---
 title: Resources for behavioural science research
 summary: In this section I share curated links which I found useful and may interest people who want to learn more about open and responsible research practices, dissemination and impact and tools for writing and conducting behavioural science research.
-date: 10/10/2020
-lastmod: 10/10/2020
+date: "2020-10-10"
+lastmod: "2020-10-10"
+commentable: false
+editable: false
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: "Photo by Sharon McCutcheon on Unsplash"
+  image: "sharon-mccutcheon-eMP4sYPJ9x0-unsplash.jpg"
 ---
+
 In this section I share curated links which I found useful and may interest people who want to learn more about open and responsible research practices, dissemination and impact and tools for writing and conducting behavioural science research.
 
 ## Resources for responsible research and open science
