@@ -12,7 +12,6 @@ In this section I share curated links which I found useful and may interest peop
 - [RRBM](https://www.rrbm.network/): a virtual organisation dedicated to inspiring, encouraging, and supporting credible and useful research in the business and management disciplines. I encouraged anyone to read (and reflect on!) the [principles of responsible science](https://www.rrbm.network/position-paper/principles-of-responsible-science/). 
 - [OSF](https://osf.io/): A free, open platform to support the management of research projects and enable collaboration. It is used by psychological scientists to share their materials and their data.
 - [OSF Preprints](https://osf.io/preprints/): Free, open platform to share your working papers, with a doi via your Orcid account.  
-- [OSF](https://osf.io/): A free, open platform to support the management of research projects and enable collaboration. It is used by psychological scientists to share their materials and their data.
 - [ORCID]: ORCID provides a persistent digital identifier (known as an ORCID iD) that you own and control, and that distinguishes you from every other researcher. I recommend watching [this video](https://vimeo.com/97150912) to understand the potential of having and curating an ORCID ID.
 
 ## Behavioural Science research tools I use
