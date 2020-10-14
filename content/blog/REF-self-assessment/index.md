@@ -1,18 +1,24 @@
-+++
-title = "How worthy are mine excellent papers?"
-subtitle = "Quality assessment criteria for research outputs: The case of the REF2020"
+---
+title: "How worthy are mine excellent papers?"
+subtitle: "Quality assessment criteria for research outputs: The case of the REF2020"
+authors:
+- gaelle-vallee-tourangeau
 
-date = 2019-05-15T00:00:00
-lastmod = 2019-05-15T00:00:00
-draft = false
+tags:
+- "Research quality"
+- "Research Excellence"
+- "REF2020"
+- "Academia"
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+categories:
+- "Blog"
+- "Research Evaluation"
 
-tags = ["Research quality", "Research Excellence", "REF2020", "Academia"]
-categories = ["DSci Blog"]
+summary: "How good is your research? How do you reflect on the quality of your outputs and aim to develop your skills as a researcher? In this post I use the Research Excellence Framework as a basis for discussing what research excellence may look like as well as providing tips to increase the quality of your research."
 
-summary = "How good is your research? How do you reflect on the quality of your outputs and aim to develop your skills as a researcher? In this post I use the Research Excellence Framework as a basis for discussing what research excellence may look like as well as providing tips to increase the quality of your research."
+date: "2019-05-15T00:00:00"
+lastmod: "2019-05-15T00:00:00"
+draft: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -20,22 +26,20 @@ summary = "How good is your research? How do you reflect on the quality of your 
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["torr"]
+projects:
+- torr
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
-  # Caption (optional)
-  caption = "Image credit: Photo by Erol Ahmed on Unsplash"
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: "Image credit: Photo by Erol Ahmed on Unsplash"
+  focal_point: ""
+  preview_only: false
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
-
-  # Show image only in page previews?
-  preview_only = false
-
-+++
+---
 
 {{% toc %}}
 

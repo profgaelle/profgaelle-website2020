@@ -32,7 +32,12 @@
   name = "Blog"
   url = "blog/"
   weight = 60
-
+  
+[[main]]
+  name = "Resources"
+  url = "resources/"
+  weight = 70
+  
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
