@@ -118,9 +118,9 @@ Novelty thus appear a key discriminant feature of 4* and 3* quality, together wi
 
 As the REF descriptive accounts highlight, ‘World-leading’ quality refers to an absolute standard of quality and will be specific to each unit of assessment. While these criteria implicitly assume that there exists a consensus on what constitutes an absolute standard of quality in research, in reality this is likely to vary from one peer-reviewer to another, depending on their disciplinary background. They are also likely to change across time. For example, the importance of open science practices has gained considerable support in the past few years in disciplines represented under Main Panel A.
 
-{{% alert warning %}}
+{{% callout warning %}}
 It is important that you develop a very clear understanding of what constitutes **current** absolute standards of quality in your **own** sub-discipline.
-{{% /alert %}}
+{{% /callout %}}
 
 ## Engage with state-of-the art intellectual agenda in your field
 
