@@ -18,7 +18,6 @@ projects:
 - heuri
 
 categories:
-- Blog
 - Behavioural Science
 
 date: "2016-04-20T00:00:00Z"
