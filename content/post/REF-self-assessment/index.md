@@ -162,10 +162,6 @@ Defined broadly, an output is the product of an investigation leading to new ins
 
 In reality, what counts as a significant output may vary from one [unit of assessment](https://www.ref.ac.uk/panels/units-of-assessment/) to another. 
 
-{{% alert info %}}
-Have I missed something? Do you disagree with some of my points? Are there other important avenues for assessing and improving the quality of our research? If you think this post could be developped further, free to comment and make suggestions below. I will acknowledge all comments which led me to update this content. 
-{{% /alert %}}
-
 
 
 
