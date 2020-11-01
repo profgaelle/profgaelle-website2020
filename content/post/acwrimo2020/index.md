@@ -13,12 +13,14 @@ image:
   alt_text: ""
 categories:
 - Open Academia
+tags:
+- Academic writing
 
 ---
 Some seems to think Covid19 is a blessing in disguise for academics who can now enjoy more "deep focus" time... Well, I haven't seen that happening! In fact, I seem to have less, not more, time for deep focus work than I ever had. So the reminder that November is the AcWriMo a.k.a. Academic Writing Month was a good prompt to keep me back on track.
 
-I thought I'd share my thoughts here for anyone (e.g., working parent?) who may be sharing my struggle to find time to get pen to paper... or fingers to keyboard these days.
+I thought I'd share my thoughts here for anyone who may be struggling to find time to get pen to paper... or fingers to keyboard.
 
-
+Today is the first day of November. It's been chosen as the start of a joint effort to get to  
 
 
