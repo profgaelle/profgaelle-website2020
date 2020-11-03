@@ -15,6 +15,7 @@ categories:
 - Open Academia
 tags:
 - Academic writing
+- AcWriMo2020
 
 ---
 Some seems to think Covid19 is a blessing in disguise for academics who can now enjoy more "deep focus" time... Well, I haven't seen that happening! In fact, I seem to have less, not more, time for deep focus work than ever. So to counteract the disparaging blogs where other academics seek to inspire by showcasing about their astounding productivity, I thought I'd share my thoughts here for te rest of us who may be struggling to find time to get pen to paper... or fingers to keyboard.
