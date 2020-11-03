@@ -2,7 +2,7 @@
 name = "gaelle"
 
 # Optional Google font URL
-google_fonts = "Playfair+Display:700|Roboto:wght@300|Playfair+Display:400|Roboto+Mono|"
+google_fonts = "Playfair+Display:700|Roboto:wght@100|Playfair+Display:400|Roboto+Mono|"
 
 # Font families
 heading_font = "Playfair Display"
