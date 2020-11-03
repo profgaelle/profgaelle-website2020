@@ -1,7 +1,7 @@
 ---
 title: AcWriMo - Day 2: Make yourself accountable
 subtitle: Chances are, you won't make it alone (or you wouldn't need AcWriMo in the first place)
-date: 2020-11-01T16:50:58.302Z
+date: 2020-11-02T16:50:58.302Z
 draft: false
 featured: false
 authors: [gaelle-vallee-tourangeau]
