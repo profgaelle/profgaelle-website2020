@@ -6,7 +6,7 @@ google_fonts = "Playfair+Display:700|Roboto:wght@100|Playfair+Display:400|Roboto
 
 # Font families
 heading_font = "Playfair Display"
-body_font = "Roboto"
+body_font = "Roboto Thin"
 nav_font = "Playfair Display"
 mono_font = "Roboto Mono"
 
