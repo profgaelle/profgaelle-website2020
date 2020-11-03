@@ -1,5 +1,5 @@
 ---
-title: AcWriMo - Day 2: Make yourself accountable
+title: "Make yourself accountable (Day 2 of AcWriMo)"
 subtitle: Chances are, you won't make it alone (or you wouldn't need AcWriMo in the first place)
 date: 2020-11-02T16:50:58.302Z
 draft: false
