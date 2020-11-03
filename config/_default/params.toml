@@ -112,7 +112,7 @@ email = "g.vallee-tourangeau@kingston.ac.uk"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-#{icon = "twitter", icon_pack = "fab", name = "DM Prof Gaëlle on Twitter", link = "https://twitter.com/messages/compose?recipient_id=24664417"},
+{icon = "twitter", icon_pack = "fab", name = "DM Prof Gaëlle on Twitter", link = "https://twitter.com/messages/compose?recipient_id=24664417"},
 #{icon = "users", icon_pack = "fas", name = "Chat on MS Teams", link = "https://teams.microsoft.com/l/chat/0/0?users=g.vallee-tourangeau@kingston.ac.uk"}
 ]
 
@@ -219,15 +219,15 @@ plugins_js  = []
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 0
+  engine = 1
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+  commentable = {page = false, post = true, docs = false, project = false, publication = false, talk = false}
 
   # Configuration of Disqus.
   [comments.disqus]
-    shortname = ""  # Paste the shortname from your Disqus dashboard.
-    show_count = true  # Show comment count in page header? (true/false)
+    shortname = "profgaelle"  # Paste the shortname from your Disqus dashboard.
+    show_count = false  # Show comment count in page header? (true/false)
 
   # Configuration of Commento.
   [comments.commento]
