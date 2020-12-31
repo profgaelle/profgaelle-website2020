@@ -2,7 +2,7 @@
 title: Joining in the AcWriMo 2020 Challenge
 subtitle: How to keep up with your writing when everything else conspires against you, like a global pandemic
 date: 2020-11-01T16:50:58.302Z
-draft: false
+draft: true
 featured: false
 authors: [gaelle-vallee-tourangeau]
 image:
@@ -14,7 +14,6 @@ image:
 categories:
 - Open Academia
 tags:
-- Academic writing
 - AcWriMo2020
 
 ---
