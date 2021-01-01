@@ -9,7 +9,7 @@ editable: false
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: "Photo by Sharon McCutcheon on Unsplash"
-  image: "sharon-mccutcheon-eMP4sYPJ9x0-unsplash.jpg"
+  image: "sharon-mccutcheon-unsplash.jpg"
 ---
 
 In this section I share curated links which I found useful and may interest people who want to learn more about open and responsible research practices, dissemination and impact and tools for writing and conducting behavioural science research.
