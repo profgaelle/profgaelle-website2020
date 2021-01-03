@@ -50,7 +50,7 @@ slides = "example-slides"
 tags = ["Hypothesis-testing", "Relevance", "Experimental Pragmatics"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/villejoubert2012.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
