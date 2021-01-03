@@ -67,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Principal Investigator
 ---
 I am a professor of behavioural science and director of research and enterprise for Kingston Business School. I joined Kingston Business School in January 2016. 
 After studying at Paris Ouest University (1998, MSc Social Psychology) and the University of Hertfordshire (2004, PhD), I began my career as a lecturer in Decision Sciences at Leeds University Business School (2001-2004). I then worked as a lecturer in Psychology in the School of Psychology at the University of Toulouse (2004-2009) before joining the Psychology Department at Kingston University in 2009. I joined Kingston Business School as a professor of behavioural science in January 2016.
