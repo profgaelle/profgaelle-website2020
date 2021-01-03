@@ -49,7 +49,7 @@ slides = "example-slides"
 tags = ["Verbal probability", "Membership functions", "Guilt judgements"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.researchgate.net/profile/Gaelle_Vallee-Tourangeau/publication/236970847_Can_membership-functions_capture_the_directionality_of_verbal_probabilities/links/00b7d53b310cb4c53d000000.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
