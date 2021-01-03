@@ -50,7 +50,7 @@ tags = ["Cognitive interactivity", "Systemic thinking model", "Insight Problem S
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://eprints.kingston.ac.uk/id/eprint/32516/3/Vallee-Tourangeau-F-32516-AAM.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
