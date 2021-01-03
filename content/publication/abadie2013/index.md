@@ -48,7 +48,7 @@ projects = ["heuri"]
 tags = ["Unconscious thought"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://drive.google.com/file/d/0B7GTzUbuangvZ016ajFLUzZ3YTg/view"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
