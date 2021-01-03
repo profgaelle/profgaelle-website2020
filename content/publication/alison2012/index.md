@@ -49,7 +49,7 @@ slides = "example-slides"
 tags = ["Similarity heuristic", "Guilt judgements"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/alison2012.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
