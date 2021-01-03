@@ -48,7 +48,7 @@ projects = ["systm"]
 tags = ["Personal planning", "Time management", "Systemic thinking"]
 
 # Links (optional).
-url_pdf = "https://pdfs.semanticscholar.org/78ea/7712896032828421fc7caa99b8a7972df61e.pdf"
+url_pdf = "https://cogsci.mindmodeling.org/2017/papers/0416/paper0416.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
