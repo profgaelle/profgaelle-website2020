@@ -6,7 +6,7 @@ title: Anine Cecilie Riege
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:

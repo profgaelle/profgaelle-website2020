@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Research Fellow
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -58,6 +58,5 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 
 user_groups:
-- Researchers
+- Collaborators
 ---
-I am a behavioural scientist with an interest in the psychology of decision-making. My research spans different areas; from vaccines and HIV preexposure prophylaxis to teamwork and the use of checklists in surgery. Most of my work is translational in nature and has contributed to improvements in policy and practice. I have experience undertaking multi-country studies in close collaboration with industry, leading academics and non-profit organisations.
