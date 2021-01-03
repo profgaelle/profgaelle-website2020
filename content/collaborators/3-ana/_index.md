@@ -2,10 +2,6 @@
 # Display name
 title: Ana Wheelock-Zalaquett
 
-# Username (this should match the folder name)
-authors:
-- 3-ana
-
 # Is this the primary user of the site?
 superuser: false
 
@@ -18,20 +14,6 @@ organizations:
   url: "https://www.kingston.ac.uk/staff/profile/dr-ana-wheelock-795/"
 - name: Imperial College London
   url: "https://www.imperial.ac.uk/people/a.wheelock"
-
-# Short bio (displayed in user profile at end of posts)
-bio: I specialise in uncovering the cognitive, psychological and social factors that influence how people make decisions across different healthcare contexts and issues.
-
-interests:
-- Decision-making
-- Bias
-- Patient safety
-
-education:
-  courses:
-  - course: PhD in Behavioural Medicine
-    institution: Imperial College London
-    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
