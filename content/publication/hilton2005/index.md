@@ -49,7 +49,7 @@ projects = ["expprag"]
 tags = ["Reasoning", "Conversational pragmatics", "Risk communication", "Quantifiers"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/hilton2005.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
