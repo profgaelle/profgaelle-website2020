@@ -49,7 +49,7 @@ tags = ["Cognitive interactivity", "Systemic thinking model", "Distributed cogni
 
 # Links (optional).
 url_pdf = "https://link.springer.com/content/pdf/10.1007%2F978-3-319-98390-5_35-1.pdf"
-url_preprint = ""
+url_preprint = "https://eprints.kingston.ac.uk/id/eprint/43648/1/Vallee-Tourangeau-F-43648-AAM.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
