@@ -57,6 +57,6 @@ We have collected data from several populations, including the general public, S
 # Research team
 
 - Prof Gaëlle Vallée-Tourangeau
+- Dr Karis Moon 
 - Dr Anine Riege
 - Dr Amélie Gourdon
-- Ms Karis Moon (Doctoral student)
