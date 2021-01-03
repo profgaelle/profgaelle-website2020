@@ -50,7 +50,7 @@ tags = ["Cognitive interactivity", "Systemic thinking model", "Decision-making",
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://eprints.kingston.ac.uk/id/eprint/35739/1/Vallee-Tourangeau-F-35739-AAM.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
