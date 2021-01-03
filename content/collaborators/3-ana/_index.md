@@ -2,10 +2,6 @@
 # Display name
 title: Ana Wheelock-Zalaquett
 
-# Username (this should match the folder name)
-authors:
-- 3-ana
-
 # Is this the primary user of the site?
 superuser: false
 
