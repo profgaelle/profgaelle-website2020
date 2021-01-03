@@ -31,9 +31,11 @@ In this section I share curated links which I found useful and may interest peop
 - [R Studio](https://rstudio.com/)
 - [Notion](https://www.notion.so)
 
-### Behavioural Science tools which look promising...
+## Behavioural Science tools which look promising (but I haven't tested yet)...
 
-- [formr](https://formr.org)
+- [formr](https://formr.org): A framework allowing to create surveys with automated feedback and complex longitudinal experience-sampling studies using R.
+- [jsPsych](https://www.jspsych.org): a JavaScript library for running behavioral experiments in a web browser.
+- [webgazer](https://github.com/xiaozhi2/webgazertutorial): Tutorial resource to embed an eye-tracking library called WebGazer within a JsPsych experiment.
 
 ## Academic blog writing
 
