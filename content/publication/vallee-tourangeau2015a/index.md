@@ -50,7 +50,7 @@ tags = ["vaccine hesitancy", "MoVac scale", "MovAd scale", "open access"]
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://eprints.kingston.ac.uk/id/eprint/33550/1/Vallee-Tourangeau-F-33550-AAM.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
