@@ -70,9 +70,9 @@ There are freely available search engines such as [Google Scholar](http://schola
 
 The first step in scoping the literature is to identify the relevant key search terms for your topic. There are several channels you can use to do so. You can ask experts (e.g., your supervisor and/or your librarian). You can also use the databases. 
 
-{{% alert note %}}
+{{% callout note %}}
 To illustrate how you can use databases to build a list of keywords, I outline my search for relevant key search terms for [our new TORR project]({{< ref "project/torr/index.md" >}}).
-{{% /alert %}}
+{{% /callout %}}
 
 The research topic of the [TORR project]({{< ref "project/torr/index.md" >}}) is [scholarly peer-review](https://en.wikipedia.org/wiki/Scholarly_peer_review). In particular, we are looking at better understanding `what information peer-reviewers may use when reviewing a grant proposal (as opposed to a journal article) in the humanities and social sciences?`. We have already conducted a heuristic search to identify key recent papers but we are now at the stage where we want to produce a synthesis of past research on this topic. We are ready to start scoping. 
 
@@ -92,9 +92,9 @@ Each of the databases listed above have their own specific strengths and weaknes
 
 I like to use [Google Scholar](http://scholar.google.co.uk) for my initial keyword search because when you enter a keyword, you get prompts for popular search expressions.
 
-{{% alert note %}}
+{{% callout note %}}
 If you are searching for a compound such as `peer reviewers`, you should enter it as a search expression using quote marks: "" to increase the specificity of your search. Otherwise you will also pick up articles which mention anyone of these words separately.
-{{% /alert %}}
+{{% /callout %}}
 
 The screenshot below shows the search expressions coming up when I typed `"peer-reviewer"` in Google Scholar on the 31st of March 2019.
 
@@ -104,17 +104,17 @@ This gives you several prompts for search expressions which are relevant to our 
 
 On the basis of this first scoping, I skim through the articles return and I start building up a list of keywords. Note that the choices I make are subjective and will ultimately define the set of articles which end up in the review.
 
-{{% alert note %}}
+{{% callout note %}}
 You (or a reviewer) may disagree with my choice but `it does not matter!` The key here is to make those subjective choices explicit so that the process by which the final set of articles was selected is `reproducible and transparent`. You can always amend it (or not), based on comments and suggestions from third parties.
-{{% /alert %}}
+{{% /callout %}}
 
 Skimming through the search results, I made note of the following further keywords from articles that I would consider to be relevant for our review:
 
 > `quality`, `validity`, `improv?`, `grad?`, `assess?`, `criteria`, `norm`, `grant proposals`
 
-{{% alert note %}}
+{{% callout note %}}
 The character `?` at the end of the word indicates that any word starting with the stem would be considered relevant (e.g., improv`e` or improv`ing` or improv`ement`). In some search engine, this is replaced by `*`.
-{{% /alert %}}
+{{% /callout %}}
 
 I repeated this process in the PubMed database.
 
@@ -137,9 +137,9 @@ We may refine the search string depending on the quantity and relevance of the o
 
 Once you have selected your database(s), you will need to define your *search string*. A search string is a combination of keywords and logical operators such as AND, OR, NOT and proximity operators such as NEAR or SAME. 
 
-{{% alert note %}}
+{{% callout note %}}
 Consult the [WoS Help section](https://images.webofknowledge.com/images/help/WOS/hs_search_operators.html) for more details about the operators available in the Social Sciences Citation Index.
-{{% /alert %}}
+{{% /callout %}}
 
 For example, a topic search string for the project above could be:
 
@@ -147,9 +147,9 @@ For example, a topic search string for the project above could be:
 
 This search returned 2,346 hits on the 8th of January 2019 in the Web of Science Core Collection. That's a little too many to process! Moreover, examining the title of the second article: *Perceptions of the attractive factors for adopting public-private partnerships in the UAE* suggests that the search is not diagnostic enough.
 
-{{% alert note %}}
+{{% callout note %}}
 Remember: The quality of a search string depends on the balance between the number of relevant articles it returns (hit rate), and the number of relevant articles it misses (miss rate) as well as the number of irrelevant articles it leaves out (correct rejection) and the number of irrelevant articles it returns (false-alarm rate).
-{{% /alert %}}
+{{% /callout %}}
 
 At first sight, if a search string returns many articles that are clearly irrelevant to the research question you had in mind, it is a sign you need to refine your search string. Ideally, a search should return a good number of articles that are mostly relevant to your question, at least on the first page. What a good number looks like is difficult to define. In my experience, if you return more than 200 articles, your search string is not precise enough. If you return less than 20 articles, your search is likely to be too narrow.
 
@@ -169,17 +169,17 @@ This now returns 150 hits. Furthermore, looking at the titles of the first page,
 
 Now, this does not mean that this search string has found all articles relevant for the topic (the miss rate could still be high). But it gives a good and manageable starting point to begin the review. Moreover, we can make the reasonable assumption that if someone wrote an article about peer reviewing of grant applications and failed to mention either peer or review or grant or funding in their title, they might deserve to be taken out of our initial reviewing sample! 
 
-{{% alert note %}} 
+{{% callout note %}} 
 This is precisely why you should be careful to include the key concepts in your title when you write your own research or you run the risk that it may never be picked up by anyone again.
-{{% /alert %}}
+{{% /callout %}}
 
 If using the title only search returns too few hits, you may use a less common, but very useful technique, to further refine your search by including a *proximity constraint*. For example, our search is concerned with the review of grant proposals or research funding applications. So relevant articles should mention these terms in close proximity. To indicate this in your Web of Science search, you can replace AND with the proximity operator NEAR/X where X is the number of words that can separate your key concepts. 
 
 `TS = (peer NEAR/5 review NEAR/5 grant) OR TS = (peer NEAR/5 review NEAR/5 funding)`
 
-{{% alert note %}} 
+{{% callout note %}} 
 The syntax is slightly different here as NEAR/X can only be used with a single word.
-{{% /alert %}}
+{{% /callout %}}
 
 This returns 409 hits. This is still a large number of articles to review but if you have a time or the resources, you may find articles you wouldn't have picked up with the title search. Skim-reading through the titles returned by this particular search reveals still some irrelevant articles early in the sample (e.g., the fourth most relevant article is titled: "*JACK trial protocol: a phase III multicentre cluster randomised controlled trial of a school-based relationship and sexuality education intervention focusing on young male perspectives*"). Looking at the abstract, this particular article was picked up because it included the following sentence: "Results will be published in *peer-reviewed* journals and disseminated to stakeholders. *Funding* is from the National Institute for Health Research."
 
