@@ -50,7 +50,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://eprints.kingston.ac.uk/id/eprint/40890/1/Vallee-Tourangeau-F-40890-AAM.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
