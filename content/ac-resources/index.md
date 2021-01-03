@@ -24,6 +24,7 @@ In this section I share curated links which I found useful and may interest peop
 
 ## Behavioural Science research tools I use
 
+- [IA Writer](https://ia.net/writer): Simply the best text editor there is.
 - [Qualtrics](https://www.qualtrics.com/)
 - [Zotero](https://www.zotero.org/)
 - [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
