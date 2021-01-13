@@ -25,7 +25,7 @@ email: ""
 superuser: true
 ---
 
-Welcome to profgaelle.com, the personal website of Gaëlle Vallée-Tourangeau, professor of Behavioural Science at [Kingston Business School](https://www.kingston.ac.uk/staff/profile/professor-gaeumllle-valleacutee-tourangeau-63/), [Kingston University London](https://www.kingston.ac.uk). From this website, you can access information related to behavioural science, including [academic papers](/publication/), resources related to Gaëlle's [areas of research](/research/), and the [Decision Science & creative insights Lab](/dsci-lab/) and [blog posts](/post/). You can also find useful resources and blogs discussing [academic work and open science](/category/open-academia/), [researc impact](/category/research-impact/) and [research policy](/category/research-policy/).
+Welcome to profgaelle.com, the personal website of Gaëlle Vallée-Tourangeau, professor of Behavioural Science at [Kingston Business School](https://www.kingston.ac.uk/staff/profile/professor-gaeumllle-valleacutee-tourangeau-63/), [Kingston University London](https://www.kingston.ac.uk). From this website, you can access information related to behavioural science, including [academic papers](/publication/), resources related to Gaëlle's [areas of research](/project/), and the [Decision Science & creative insights Lab](/dsci-lab/) and [blog posts](/post/). You can also find useful resources and blogs discussing [academic work and open science](/category/open-academia/), [researc impact](/category/research-impact/) and [research policy](/category/research-policy/).
 
 **Behavioural Science** | **Open Academia** |  **Research Impact** | **Research Policy** |
  ---------- |  ---------- |  ---------- |  ---------- |
