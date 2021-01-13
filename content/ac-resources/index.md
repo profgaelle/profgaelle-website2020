@@ -2,7 +2,7 @@
 title: Resources for behavioural science research
 summary: In this section I share curated links which I found useful and may interest people who want to learn more about open and responsible research practices, dissemination and impact and tools for writing and conducting behavioural science research.
 date: "2020-10-10"
-lastmod: "2020-10-10"
+lastmod: "2021-01-13"
 commentable: true
 editable: false
 
@@ -52,3 +52,4 @@ In this section I share curated links which I found useful and may interest peop
 - [Fast-track impact](https://www.fasttrackimpact.com/)
 - [Publish or perish](https://harzing.com/resources/publish-or-perish)
 - [Wowchemy (previously hugo academic)](https://wowchemy.com/)
+- [HackMD](https://hackmd.io) - for creating open access, live book writing. See, for example, the [Covid-19 Vaccine Communication Handbook & Wiki](https://hackmd.io/@scibehC19vax/home)
