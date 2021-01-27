@@ -22,6 +22,13 @@ In this section I share curated links which I found useful and may interest peop
 - [OSF Preprints](https://osf.io/preprints/): Free, open platform to share your working papers, with a doi via your Orcid account.  
 - [ORCID](https://orcid.org): ORCID provides a persistent digital identifier (known as an ORCID iD) that you own and control, and that distinguishes you from every other researcher. I recommend watching [this video](https://vimeo.com/97150912) to understand the potential of having and curating an ORCID ID.
 
+## Resources for estimating sample sizes
+
+- [Cohen's primer](https://www2.psych.ubc.ca/~schaller/528Readings/Cohen1992.pdf) (1992).
+-	[A tutorial using G*Power](https://link.springer.com/article/10.3758/BRM.41.4.1149)
+-	[A tutorial using R](https://advstats.psychstat.org/book/power/index.php)
+- [WebPower R package](https://rdrr.io/cran/WebPower/man/wp.regression.html)
+
 ## Behavioural Science research tools I use
 
 - [IA Writer](https://ia.net/writer): Simply the best text editor there is.
