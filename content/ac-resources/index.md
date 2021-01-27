@@ -25,9 +25,11 @@ In this section I share curated links which I found useful and may interest peop
 ## Resources for estimating sample sizes
 
 - [Cohen's primer](https://www2.psych.ubc.ca/~schaller/528Readings/Cohen1992.pdf) (1992).
--	[A tutorial using G*Power](https://link.springer.com/article/10.3758/BRM.41.4.1149)
 -	[A tutorial using R](https://advstats.psychstat.org/book/power/index.php)
 - [WebPower R package](https://rdrr.io/cran/WebPower/man/wp.regression.html)
+
+### Estimating sample sizes for multiple regression
+- [A tutorial using G*Power](https://link.springer.com/article/10.3758/BRM.41.4.1149)
 
 ## Behavioural Science research tools I use
 
