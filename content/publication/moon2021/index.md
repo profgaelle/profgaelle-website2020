@@ -1,6 +1,6 @@
 +++
 title = "The moderating effect of autonomy on promotional health messages encouraging healthcare professionals to get the Influenza vaccine"
-date = 2020-07-09T00:00:00
+date = 2021-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -33,7 +33,7 @@ featured = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["systm"]
+projects = ["hcwvax"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
