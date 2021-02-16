@@ -49,14 +49,14 @@ tags = ["Problem-solving", "Insight", "Interactivity", "Distributed cognition", 
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "files/vallee-tourangeau2020c.pdf"
 url_code = ""
 url_dataset = ""
-url_project = "files/vallee-tourangeau2020c.pdf"
+url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.tandfonline.com/doi/abs/10.1080/20445911.2020.1822367?journalCode=pecp21"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
