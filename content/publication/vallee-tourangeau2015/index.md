@@ -1,5 +1,5 @@
 +++
-title = "Interactivity fosters bayesian reasoning without instruction"
+title = "Interactivity fosters Bayesian reasoning without instruction"
 date = 2015-06-01T00:00:00
 draft = false
 
@@ -45,7 +45,7 @@ projects = ["systm"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["vaccine hesitancy", "MoVac scale", "MovAd scale", "open access"]
+tags = ["Cognitive interactivity", "Distributed cognition", "Statistical reasoning", "Numeracy"]
 
 # Links (optional).
 url_pdf = ""
