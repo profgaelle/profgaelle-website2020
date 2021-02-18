@@ -111,10 +111,9 @@ email = "g.vallee-tourangeau@kingston.ac.uk"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-{icon = "twitter", icon_pack = "fab", name = "DM Prof Gaëlle on Twitter", link = "https://twitter.com/messages/compose?recipient_id=24664417"},
-#{icon = "users", icon_pack = "fas", name = "Chat on MS Teams", link = "https://teams.microsoft.com/l/chat/0/0?users=g.vallee-tourangeau@kingston.ac.uk"}
-]
+#contact_links = [
+#{icon = "twitter", icon_pack = "fab", name = "DM Prof Gaëlle on Twitter", link = "https://twitter.com/messages/compose?recipient_id=24664417"}
+#]
 
 ############################
 ## Social
@@ -287,3 +286,7 @@ plugins_js  = []
 [cms]
   # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
   netlify_cms = true
+
+[icon.pack]
+ai = true
+
