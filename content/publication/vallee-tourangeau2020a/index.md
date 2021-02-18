@@ -25,7 +25,7 @@ publication_short = "In *The Palgrave Encyclopedia of the Possible*"
 abstract = "Creativity and insight emerge through a transactional process of transformation: physical features cue actions that change both the reasoner and the physical environment in which he or she is embedded. Insightful new possibles are realized through an active and mutually transforming exploration of the problem-solving environment. We discuss insight as an enacted process, involving action and perception. As a physical and perceptual activity, a degree of serendipity is inevitable, and, in some circumstances, insight becomes “outsight.” We identify eight key features of first-order creative cognition that map out a new program of research on insight."
 
 # Is this a selected publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
