@@ -25,7 +25,7 @@ publication_short = "In *Cognition Beyond the Brain*"
 abstract = "In this chapter , we propose a systemic model of thinking (SysTM) to account for higher cognitive operations such as how an agent makes inferences, solves problems and makes decisions. SysTM holds that information processing in thinking evolves through a succession of deductive and inductive processing loops. Both loops give rise to transformative actions on the physical information layout, resulting in new perceptual inputs which inform the next processing loop. Such actions result from the enaction of mental action plans in deductive loops and from unplanned direct perception of action possibilities or affordances in inductive loops. To account for direct perception, we introduce the concept of an affordance pool to refer to a short term memory storage of action possibilities in working memory. We conclude by illustrating how SysTM can be used to derive new predictions and guide the study of cognitive interactivity in thinking."
 
 # Is this a selected publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
