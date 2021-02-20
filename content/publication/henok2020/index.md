@@ -47,8 +47,8 @@ projects = ["systm"]
 tags = ["Cognitive interactivity", "Systemic thinking model", "Insight Problem Solving"]
 
 # Links (optional).
-url_pdf = "https://eprints.kingston.ac.uk/id/eprint/40683/1/Henok-N-40683-VoR.pdf"
-url_preprint = ""
+url_pdf = "/files/henok2020.pdf"
+url_preprint = "https://eprints.kingston.ac.uk/id/eprint/40683/1/Henok-N-40683-VoR.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
