@@ -17,151 +17,151 @@ slides:
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_2.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_2.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_3.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_3.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_4.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_4.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_5.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_5.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_6.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_6.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_7.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_7.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_8.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_8.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_9.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_9.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_10.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_10.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_11.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_11.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_12.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_12.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_13.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_13.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_14.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_14.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_15.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_15.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_16.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_16.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_17.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_17.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_18.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_18.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_19.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_19.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_20.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_20.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_21.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_21.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_22.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_22.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_23.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_23.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_24.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_24.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_25.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_25.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_26.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_26.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_27.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_27.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_28.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_28.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_29.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_29.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_30.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_30.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_31.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_31.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_32.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_32.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_33.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_33.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_34.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_34.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_35.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_35.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_36.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_36.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_37.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_37.jpeg" >}}
 
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_38.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_38.jpeg" >}}
 
 ---
 
