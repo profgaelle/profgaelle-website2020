@@ -13,7 +13,7 @@ slides:
   highlight_style: dracula
 ---
 
-{{< slide background-image="/slides/20210303-cdr-seminar/slides_1.jpeg" >}}
+{{< figure src="/slides/20210303-cdr-seminar/slides_1.jpeg" >}}
 
 ---
 
