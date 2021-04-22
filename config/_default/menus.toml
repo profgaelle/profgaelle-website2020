@@ -39,7 +39,7 @@
   weight = 70
 
 [[main]]
-  name = "Research"
+  name = "Research stuff"
   parent = "res"
   url = "ac-resources/"
   weight = 20
