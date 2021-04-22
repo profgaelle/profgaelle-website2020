@@ -27,4 +27,5 @@ Welcome to profgaelle.com, the personal website of Gaëlle Vallée-Tourangeau, p
 **Behavioural Science** | **Open Academia** |  **Research Impact** | **Research Policy** |
  ---------- |  ---------- |  ---------- |  ---------- |
 [Danny Kahneman on Prospect theory](/post/danny-kahneman-prospect-theory) | [Reproducible literature searches](/post/reproducible-lit-search/)|[Psychology and Covid19](/post/psychology-and-covid19/)|[Self-assessment for the REF](post/REF-self-assessment/)|
-[Research resources](/ac-resources/)
+[Research resources](/ac-resources/)| | | |
+[Teaching & Learning resources](/tl-resources/)
