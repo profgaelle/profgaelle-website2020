@@ -39,15 +39,15 @@
   weight = 70
 
 [[main]]
-  name = "Resources"
+  name = "Research"
   parent = "resources"
   url = "ac-resources/"
   weight = 10
 
 [[main]]
-  name = "Resources 2"
+  name = "Teaching and Learning"
   parent = "resources"
-  url = "ac-resources/"
+  url = "tl-resources/"
   weight = 20
 
 
