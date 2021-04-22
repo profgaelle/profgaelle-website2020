@@ -19,7 +19,7 @@ In this section I share curated links which I found useful and may interest peop
 
 ### Podcasts
 
-- [Teaching in higher education](https://teachinginhighered.com/episodes/): This is a very pragmatic podcast which gives interesting, practical, and research-informed insights for innovative teaching and learning tips. I particularly like the open aim to "being more effective at facilitating learning.
+- [Teaching in higher education](https://teachinginhighered.com/episodes/): This is a very pragmatic podcast which gives interesting, practical, and research-informed insights for innovative teaching and learning tips. I particularly like the open aim to "being more effective at facilitating learning".
 
 ### Teaching and Learning textbooks
 
@@ -31,8 +31,8 @@ In this section I share curated links which I found useful and may interest peop
 
 - [MS Teams](https://www.microsoft.com/en-gb/microsoft-teams/group-chat-software): This is the official platform in use at my institution. It's not quite user friendly as yet and you never quite know what you will find when you open it next, but it's getting there.
 - [Calendly](https://calendly.com): I've used this for several years now. You can sync it to Outlook so if someone books a meeting, it appears in your calendar but also if you book a meeting in Outlook it will no longer be available in Calendly.
-- [Kahoot](https://kahoot.com): I've only tried this recently it can be a lot of fun, for all ages. I've also asked students to create their own multiple-choice questions to help them reflect.
-- [Microsoft OneNote Notebook](https://www.microsoft.com/en-GB/education/products/onenote/default.aspx?culture=en-gb&country=GB): I've started to use this recently too but it's been really useful to create and distribute editable handouts which students can complete on their own or in groups and keep them organised. The only drawback is archiving is not straightforward as it does not handle exporting to pdf at all from the app, it's best to print by logging into OneNote from the web and print from the website.
+- [Kahoot](https://kahoot.com): I've only tried this recently but it can be a lot of fun, for all ages. I've also asked students to create their own multiple-choice questions to help them reflect.
+- [Microsoft OneNote Notebook](https://www.microsoft.com/en-GB/education/products/onenote/default.aspx?culture=en-gb&country=GB): I've also just started using this but it's been really useful to create and distribute editable handouts which students can complete on their own or in groups and keep them organised. The only drawback is archiving is not straightforward as it does not handle exporting to pdf at all from the app. It's best to print by logging into OneNote from the web and print from the website.
 - [Mentimeter](https://www.mentimeter.com/): I've used this a few times. The word cloud and the quotes cloud are quite good but I always get mixed-up with how to share the results easily and quickly.  I've found using a poll in MS Teams via [Microsoft Forms](https://support.microsoft.com/en-us/forms) to be easier (and ease of use beats aesthetics these days...)
 - [Microsoft Forms](https://support.microsoft.com/en-us/forms): It is still a little buggy but can work in [MS Teams](https://www.microsoft.com/en-gb/microsoft-teams/group-chat-software). The most efficient strategy is to prepare the text of the Poll question and options in advance and copy-paste them as and when you need to launch the poll. Both the question and the answers will appear in the chat. You can prepare it in advance for meetings you set up from your calendar, but not for meetings you set up from a Channel.
 
