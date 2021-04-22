@@ -11,54 +11,26 @@ header:
   caption: "Photo by Joanna Kosinska on Unsplash"
   image: "joanna-kosinska-unsplash.png"
 ---
+{{% toc %}}
 
 In this section I share curated links which I found useful and may interest people who want to learn more about open and responsible behavioural science research practices, dissemination and impact and tools for writing and conducting behavioural science research.
 
-## Resources for responsible research and open science
+# General resources
 
-- [SIPS](https://improvingpsych.org/): a learned society which brings together scholars working to improve methods and practices in psychological science. All the resources from the last SIPS conference are available on the OSF website [here](https://osf.io/vxq9d/). I recommend watching the videocast by Balazs Aczel, available [here](https://osf.io/2aryd/), starts at 18m30s.
-- [RRBM](https://www.rrbm.network/): a virtual organisation dedicated to inspiring, encouraging, and supporting credible and useful research in the business and management disciplines. I encouraged anyone to read (and reflect on!) the [principles of responsible science](https://www.rrbm.network/position-paper/principles-of-responsible-science/). 
-- [OSF](https://osf.io/): A free, open platform to support the management of research projects and enable collaboration. It is used by psychological scientists to share their materials and their data.
-- [OSF Preprints](https://osf.io/preprints/): Free, open platform to share your working papers, with a doi via your Orcid account.  
-- [ORCID](https://orcid.org): ORCID provides a persistent digital identifier (known as an ORCID iD) that you own and control, and that distinguishes you from every other researcher. I recommend watching [this video](https://vimeo.com/97150912) to understand the potential of having and curating an ORCID ID.
+## Podcasts
 
-## Resources for estimating sample sizes
+- [Teaching in higher education](https://teachinginhighered.com/episodes/): This is a very pragmatic podcast which gives interesting, practical, and research-informed insights for innovative teaching and learning tips. I particularly like the open aim to "being more effective at facilitating learning.
 
-- [Cohen's primer](https://www2.psych.ubc.ca/~schaller/528Readings/Cohen1992.pdf) (1992).
--	[A tutorial using R](https://advstats.psychstat.org/book/power/index.php)
-- [WebPower R package](https://rdrr.io/cran/WebPower/man/wp.regression.html)
+## Teaching and Learning textbooks
 
-### Estimating sample sizes for multiple regression
-- [A tutorial using G*Power](https://link.springer.com/article/10.3758/BRM.41.4.1149)
+- [Technology and the curriculum](https://techandcurriculum.pressbooks.com): This is both a useful  resource and an interesting pedagogical project since the chapters were initially developed by students for an assignment, peer-reviewed, and edited.
 
-## Behavioural Science research tools I use
+# Tools and technology
 
-- [IA Writer](https://ia.net/writer): Simply the best text editor there is.
-- [Qualtrics](https://www.qualtrics.com/)
-- [Zotero](https://www.zotero.org/)
-- [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
-- [R Studio](https://rstudio.com/)
-- [Notion](https://www.notion.so)
+## Tools I've used in class and for supervision
 
-## Behavioural Science tools which look promising (but I haven't tested yet)...
+- [Calendly](https://calendly.com): I've used this for several years now. You can sync it to Outlook so if someone books a meeting, it appears in your calendar but also if you book a meeting in Outlook it will no longer be available in Calendly.
+- [Kahoot](https://kahoot.com): I've only tried this recently it can be a lot of fun, for all ages. I've also asked students to create their own multiple-choice questions to help them reflect.
+- [Loom](https://www.loom.com/education): I've seen it in use (at my daughter's primary school during lockdown!) but I have yet to embed it in my classes.
+- [Microsoft OneNote Notebook](https://www.microsoft.com/en-GB/education/products/onenote/default.aspx?culture=en-gb&country=GB): I've started to use this recently too but it's been really useful to create and distribute editable handouts which students can complete on their own or in groups and keep them organised. The only drawback is archiving is not straightforward as it does not handle exporting to pdf at all from the app, it's best to print by logging into OneNote from the web and print from the website.
 
-- [formr](https://formr.org): A framework allowing to create surveys with automated feedback and complex longitudinal experience-sampling studies using R.
-- [jsPsych](https://www.jspsych.org): a JavaScript library for running behavioral experiments in a web browser.
-- [webgazer](https://github.com/xiaozhi2/webgazertutorial): Tutorial resource to embed an eye-tracking library called WebGazer within a JsPsych experiment.
-
-## Academic blog writing
-
-- [Introduction to academic blogging](https://harzing.com/blog/2020/04/social-media-in-academia-blogging)
-- [Academic blogging – 10 top tips](https://www.theguardian.com/higher-education-network/blog/2013/dec/13/how-to-academic-blogging-tips) from the Guardian.
-- [How to write for an academic blog](https://www.uaces.org/resources/articles/how-write-academic-blog) - See also [this blog post](https://blogs.lse.ac.uk/impactofsocialsciences/2017/05/25/so-youve-decided-to-blog/).
-- [How to write an engaging blog](https://www.ed.ac.uk/information-services/learning-technology/blogging/introduction/blogging-guidelines)
-- [Why might you want to become an academic blogger?](https://info.lse.ac.uk/staff/services/knowledge-exchange-and-impact/kei-guide/academic-blogging)
-- [How to write a blogpost from your journal article in eleven easy steps](https://blogs.lse.ac.uk/impactofsocialsciences/2016/01/25/how-to-write-a-blogpost-from-your-journal-article/)
-- [Why academics (and students) should take blogging / social media seriously](https://blogs.lse.ac.uk/impactofsocialsciences/2015/10/26/why-academics-and-students-should-take-blogging-social-media-seriously/)
-
-## Further resources to learn about or support research impact and dissemination
-
-- [Fast-track impact](https://www.fasttrackimpact.com/)
-- [Publish or perish](https://harzing.com/resources/publish-or-perish)
-- [Wowchemy (previously hugo academic)](https://wowchemy.com/)
-- [HackMD](https://hackmd.io) - for creating open access, live book writing. See, for example, the [Covid-19 Vaccine Communication Handbook & Wiki](https://hackmd.io/@scibehC19vax/home)
