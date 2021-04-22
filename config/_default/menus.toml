@@ -42,13 +42,13 @@
   name = "Research"
   parent = "resources"
   url = "ac-resources/"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Teaching and Learning"
   parent = "resources"
   url = "tl-resources/"
-  weight = 20
+  weight = 30
 
 
 # Link to a PDF of your resume/CV from the menu.
