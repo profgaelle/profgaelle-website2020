@@ -35,20 +35,20 @@
 
 [[main]]
   name = "Resources"
-  identifier = "resources"
+  identifier = "res"
   weight = 70
 
 [[main]]
   name = "Research"
-  parent = "resources"
+  parent = "res"
   url = "ac-resources/"
   weight = 20
 
-[[main]]
-  name = "Teaching and Learning"
-  parent = "resources"
-  url = "tl-resources/"
-  weight = 30
+#[[main]]
+#  name = "Teaching and Learning"
+#  parent = "resources"
+#  url = "tl-resources/"
+#  weight = 30
 
 
 # Link to a PDF of your resume/CV from the menu.
