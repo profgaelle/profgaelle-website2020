@@ -39,16 +39,16 @@
   weight = 70
 
 [[main]]
-  name = "Research stuff"
+  name = "Research "
   parent = "res"
   url = "ac-resources/"
-  weight = 20
+  weight = 10
 
-#[[main]]
-#  name = "Teaching and Learning"
-#  parent = "resources"
-#  url = "tl-resources/"
-#  weight = 30
+[[main]]
+  name = "Teaching and Learning"
+  parent = "res"
+  url = "tl-resources/"
+  weight = 20
 
 
 # Link to a PDF of your resume/CV from the menu.
