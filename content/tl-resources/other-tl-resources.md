@@ -1,13 +1,15 @@
 ---
 widget: blank
 active: true
+headless: true
 weight: 10
 title: Resources for teaching and learning
-subtitle: 
-date: "2020-10-10"
+subtitle:
+
 design:
   columns: "2"
-lastmod: "2021-01-13"
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
 ---
 
 {{% toc %}}
