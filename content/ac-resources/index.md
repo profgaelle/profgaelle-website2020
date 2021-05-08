@@ -23,7 +23,9 @@ In this section I share curated links which I found useful and may interest peop
 - [OSF Preprints](https://osf.io/preprints/): Free, open platform to share your working papers, with a doi via your Orcid account.  
 - [ORCID](https://orcid.org): ORCID provides a persistent digital identifier (known as an ORCID iD) that you own and control, and that distinguishes you from every other researcher. I recommend watching [this video](https://vimeo.com/97150912) to understand the potential of having and curating an ORCID ID.
 
-## Resources for estimating sample sizes
+## Research design
+
+### Estimating sample sizes
 
 - [Cohen's primer](https://www2.psych.ubc.ca/~schaller/528Readings/Cohen1992.pdf) (1992).
 -	[A tutorial using R](https://advstats.psychstat.org/book/power/index.php)
@@ -41,7 +43,7 @@ In this section I share curated links which I found useful and may interest peop
 - [R Studio](https://rstudio.com/)
 - [Notion](https://www.notion.so)
 
-## Behavioural Science tools which look promising (but I haven't tested yet)...
+### Behavioural Science tools which look promising (but I haven't tested yet)...
 
 - [formr](https://formr.org): A framework allowing to create surveys with automated feedback and complex longitudinal experience-sampling studies using R.
 - [jsPsych](https://www.jspsych.org): a JavaScript library for running behavioral experiments in a web browser.
@@ -64,6 +66,10 @@ In this section I share curated links which I found useful and may interest peop
 - [Wowchemy (previously hugo academic)](https://wowchemy.com/)
 - [HackMD](https://hackmd.io) - for creating open access, live book writing. See, for example, the [Covid-19 Vaccine Communication Handbook & Wiki](https://hackmd.io/@scibehC19vax/home)
 
-# Resources for students
+## Writing resources
 
 - [How to read and take notes from journal articles](https://www.youtube.com/watch?v=hfTpYruV7AE): A neat micro-learning video about the process of note-taking for writing.
+
+## Data analysis resources
+
+- [Qualitative Content Analysis e-book](https://www.psychopen.eu/fileadmin/user_upload/books/mayring/ssoar-2014-mayring-Qualitative_content_analysis_theoretical_foundation.pdf): A (free) thorough and hands-on e-book for conducting content analysis.
