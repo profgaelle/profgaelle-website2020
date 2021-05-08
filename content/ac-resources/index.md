@@ -63,3 +63,7 @@ In this section I share curated links which I found useful and may interest peop
 - [Publish or perish](https://harzing.com/resources/publish-or-perish)
 - [Wowchemy (previously hugo academic)](https://wowchemy.com/)
 - [HackMD](https://hackmd.io) - for creating open access, live book writing. See, for example, the [Covid-19 Vaccine Communication Handbook & Wiki](https://hackmd.io/@scibehC19vax/home)
+
+# Resources for students
+
+- [How to read and take notes from journal articles](https://www.youtube.com/watch?v=hfTpYruV7AE): A neat micro-learning video about the process of note-taking for writing.
