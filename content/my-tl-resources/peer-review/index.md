@@ -6,7 +6,7 @@ title = "Peer review training"
 date = 2021-05-08T00:00:00
 
 # Project summary to display on homepage.
-summary = "This resource contains small activities which you can use to promote critical reflection around peer-reviewing."
+summary = "This resource contains a micro-learning activity which you can use to promote critical reflection around peer-reviewing."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
