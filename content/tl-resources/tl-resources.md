@@ -1,20 +1,18 @@
-+++
+---
+widget: blank
+active: true
+weight: 10
 title: Resources for teaching and learning
-summary: In this section I share curated links which I found useful and may interest people who want to learn more about blended or hybrid teaching and learning practice, student engagement, and the community of inquiry framework.
+subtitle: 
 date: "2020-10-10"
-type: "widget_page"
+design:
+  columns: "2"
 lastmod: "2021-01-13"
-commentable: true
-editable: false
+---
 
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: "Photo by Joanna Kosinska on Unsplash"
-  image: "joanna-kosinska-unsplash.png"
-+++
 {{% toc %}}
 
-In this section I share curated links which I found useful and may interest people who want to learn more about open and responsible behavioural science research practices, dissemination and impact and tools for writing and conducting behavioural science research.
+In this section I share curated links which I found useful and may interest people who want to learn more about blended or hybrid teaching and learning practice, student engagement, and the community of inquiry framework.
 
 ## General resources
 
