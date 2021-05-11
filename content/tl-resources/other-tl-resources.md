@@ -22,9 +22,10 @@ In this section I share curated links which I found useful and may interest peop
 
 - [Teaching in higher education](https://teachinginhighered.com/episodes/): This is a very pragmatic podcast which gives interesting, practical, and research-informed insights for innovative teaching and learning tips. I particularly like the open aim to "being more effective at facilitating learning".
 
-### Teaching and Learning textbooks
+### Teaching and Learning textbooks and websites
 
 - [Technology and the curriculum](https://techandcurriculum.pressbooks.com): This is both a useful  resource and an interesting pedagogical project since the chapters were initially developed by students for an assignment, peer-reviewed, and edited.
+- [Resources for teachers of psychology](https://teachpsych.org/): This website curates and distributes teaching materials including classroom activities, annotated bibliographies, lab manuals, etc.
 
 ## Tools and technology
 
