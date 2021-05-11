@@ -26,6 +26,8 @@ In this section I share curated links which I found useful and may interest peop
 
 - [Technology and the curriculum](https://techandcurriculum.pressbooks.com): This is both a useful  resource and an interesting pedagogical project since the chapters were initially developed by students for an assignment, peer-reviewed, and edited.
 - [Resources for teachers of psychology](https://teachpsych.org/): This website curates and distributes teaching materials including classroom activities, annotated bibliographies, lab manuals, etc.
+- [Teaching psychological science](https://www.psychologicalscience.org/members/teaching): This website offers instructional materials, blogs, and videos to engage students to learn about psychological science.
+- [Behavioural scientist](https://behavioralscientist.org/): A non-profit digital magazine offering original, thought-provoking reports from the front lines of behavioural science.
 
 ## Tools and technology
 
