@@ -88,4 +88,4 @@ slides:
 
 # Questions?
 
-[Contact me](mailto:"g.vallee-tourangeau@kingston.ac.uk?subject=[MENA-ISN Webinar])
+[Contact me](mailto:"g.vallee-tourangeau@kingston.ac.uk?subject=[MENA-ISN%20Webinar])
