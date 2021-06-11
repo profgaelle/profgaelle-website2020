@@ -1,4 +1,4 @@
-+++
+---
 title = "Motors of influenza vaccination uptake and vaccination advocacy in healthcare workers: A comparative study in six European countries"
 date = 2018-03-18T00:00:00
 draft = false
@@ -46,7 +46,7 @@ slides = "20210610-menaisn-webinar"
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags: 
+tags =
 - vaccination
 - healthcare workers
 - vaccine hesitancy
@@ -85,5 +85,5 @@ math = false
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
-+++
+---
 
