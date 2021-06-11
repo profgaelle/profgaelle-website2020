@@ -28,6 +28,8 @@ tags:
 - MoVac scale
 - MovAd scale
 - open access
+categories:
+- research
 
 # Is this a featured talk? (true/false)
 featured: false
