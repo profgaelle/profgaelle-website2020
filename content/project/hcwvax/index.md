@@ -1,12 +1,12 @@
 ---
 # Project title.
-title = "Healthcare workers and flu vaccination"
+title: "Healthcare workers and flu vaccination"
 
 # Date this page was created.
 date = 2016-12-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "This research programme aims to better understand the levels of autonomous drive towards vaccination and vaccination advocacy among health care professionals."
+summary: "This research programme aims to better understand the levels of autonomous drive towards vaccination and vaccination advocacy among health care professionals."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
