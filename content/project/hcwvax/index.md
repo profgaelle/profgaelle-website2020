@@ -1,6 +1,6 @@
 ---
 # Project title.
-title: "Healthcare workers and flu vaccination"
+title: Healthcare workers and flu vaccination
 
 # Date this page was created.
 date: "2016-12-27T00:00:00"
@@ -10,7 +10,12 @@ summary: "This research programme aims to better understand the levels of autono
 
 # Tags: can be used for filtering projects.
 # Example: `tags:  ["machine-learning", "deep-learning"]`
-tags: ["Vaccination", "Healthcare workers", "Motivation", "Risk perception", "Decision-making"]
+tags:
+- Vaccination
+- Healthcare workers
+- Motivation
+- Risk perception
+- Decision-making
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -35,15 +40,13 @@ url_code:  ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
+image:
 # Caption (optional)
-  caption:  "Photo by Randy Fath on Unsplash"
+  caption: Photo by Randy Fath on Unsplash
   
 # Focal point (optional)
 # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point:  "Smart"
-  
-show_related: false
+  focal_point: Smart
 ---
 
 In recent years, public opinion shifted from a widespread acceptance of vaccination to an increase in concern for vaccine safety, fuelled by media coverage of alleged vaccination-related risks and the growing influence of anti-vaccine movements.
