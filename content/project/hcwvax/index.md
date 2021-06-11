@@ -1,4 +1,4 @@
-+++
+---
 # Project title.
 title = "Healthcare workers and flu vaccination"
 
@@ -44,7 +44,7 @@ url_code = ""
   focal_point = "Smart"
   
 show_related: false
-+++
+---
 
 In recent years, public opinion shifted from a widespread acceptance of vaccination to an increase in concern for vaccine safety, fuelled by media coverage of alleged vaccination-related risks and the growing influence of anti-vaccine movements.
 
