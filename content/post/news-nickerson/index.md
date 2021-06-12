@@ -4,8 +4,7 @@ date: "2021-04-19T00:00:00Z"
 summary: "Karis won the 2020 Raymond S. Nickerson Award for the best paper in the Journal of Experimental Psychology: Applied."
 draft: false
 featured: false
-authors:
-  - gaelle-vallee-tourangeau
+
 categories:
   - News
 projects:
