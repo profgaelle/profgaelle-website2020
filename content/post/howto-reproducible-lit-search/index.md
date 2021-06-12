@@ -10,7 +10,7 @@ draft = false
 authors = []
 
 tags = ["Study guide", "Literature search", "Research methods"]
-categories = ["Open Academia"]
+categories = ["Open Academia", "How-tos"]
 
 summary = "How to create a reproducible literature search for your research projects."
 
