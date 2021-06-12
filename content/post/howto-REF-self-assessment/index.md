@@ -12,7 +12,7 @@ tags:
 
 categories:
 - "Research Policy"
-- Blog post
+- How-tos
 
 summary: "How good is your research? How do you reflect on the quality of your outputs and aim to develop your skills as a researcher? In this post I use the Research Excellence Framework as a basis for discussing what research excellence may look like as well as providing tips to increase the quality of your research."
 
