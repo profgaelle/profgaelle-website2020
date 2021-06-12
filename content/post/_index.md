@@ -1,5 +1,5 @@
 ---
-title: Blog posts
+title: News and Blog posts
 
 # View.
 #   1 = List
@@ -8,7 +8,7 @@ title: Blog posts
 view: 3
 
 filters:
-    category: 'Blog post'
+  category: "Blog post"
 
 # Optional header image (relative to `static/img/` folder).
 header:
