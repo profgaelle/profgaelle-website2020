@@ -19,7 +19,6 @@ tags:
 url_pdf: "https://doi.org/10.1037/xap0000348"
 
 image:
-  filename: image.jpg
   focal_point: Smart
   preview_only: false
   caption: Photo by Jason Leung on Unsplash
