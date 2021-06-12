@@ -1,5 +1,5 @@
 ---
-title: Motors of influenza uptake and vaccination advocacy in healthcare workers.
+title: Motors of influenza uptake and vaccination advocacy in healthcare workers
 
 event: Middle East, Eurasia and Africa Influenza Stakeholders Network Seminar Series
 event_url: https://mena-isn.org/influenza-in-health-care-workers-and-the-role-of-vaccination/
