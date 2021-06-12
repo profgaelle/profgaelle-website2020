@@ -1,5 +1,4 @@
 ---
-
 title: Dr Karis Moon wins the 2020 Raymond S. Nickerson Award
 date: "2021-04-19T00:00:00Z"
 summary: "Karis won the 2020 Raymond S. Nickerson Award for the best paper in the Journal of Experimental Psychology: Applied."
@@ -31,4 +30,4 @@ Ray Nickerson was the inaugural editor of JEP:A and a best paper is chosen each 
 
 As the recipient of this award, Karis is invited to deliver an oral presentation as part of the Division 21 program at the 2022 APA Convention (Minneapolis; August 4-7).  The organisers will reserve a special session for the winner of this award and include a short ceremony to present the award.
 
-Well done Karis! :Party Popper: :clap: :star:
+Well done Karis! :tada: :clap: :star:
