@@ -7,7 +7,7 @@ lastmod = 2019-03-30T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = [gaelle-vallee-tourangeau]
 
 tags = ["Study guide", "Literature search", "Research methods"]
 categories = ["Open Academia", "How-tos"]
