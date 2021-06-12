@@ -1,6 +1,5 @@
 ---
 title: Dr Karis Moon wins the 2020 Raymond S. Nickerson Award
-subtitle: ""
 date: "2020-04-19T06:45:09.385Z""
 summary: Karis won the 2020 Raymond S. Nickerson Award for the best paper in the Journal of Experimental Psychology: Applied.
 draft: true
