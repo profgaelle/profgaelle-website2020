@@ -10,7 +10,7 @@ draft = false
 authors = ["Gaëlle Vallée-Tourangeau"]
 
 tags = ["Psychological Sciences", "Covid-19", "Replication crisis", "Policy-making", "Open science", "Academia"]
-categories = ["Research Impact"]
+categories = ["Research Impact", "Blog post"]
 
 summary = ""
 
