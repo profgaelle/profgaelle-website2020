@@ -49,7 +49,7 @@ tags = ["Cognitive interactivity", "Systemic thinking model", "Distributed cogni
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://doi.org/10.31234/osf.io/ajv4q"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
