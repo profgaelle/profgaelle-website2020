@@ -7,6 +7,9 @@ title: Blog posts
 #   3 = Card
 view: 3
 
+filters:
+    category: 'Blog post'
+
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
