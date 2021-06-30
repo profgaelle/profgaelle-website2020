@@ -59,7 +59,7 @@ The BSci consulting team can help you!
 Examples of past services we have provided include:
 
 - bespoke data collection design to gather behavioural insights around health-related decisions (e.g., flu vaccination).
-- bespoke descriptive and behavioural analyses to map attitudes and behaviours and shed light of barriers and motors for engaging in a particular behaviour.
+- bespoke descriptive and behavioural analyses to map attitudes and behaviours and shed light on psychological barriers and motors for engaging in a particular behaviour.
 - bespoke implementation report including recommendations for evidence-based interventions to initiate behaviour change.
 - bespoke behavioural interventions to provide innovative evidence-based solutions to implement behaviour change.
 
