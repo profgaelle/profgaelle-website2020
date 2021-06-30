@@ -65,7 +65,7 @@ Examples of past services we have provided include:
 
 Drop Gaëlle a line at [consulting@profgaelle.com](mailto:consulting@profgaelle.com) and she will get back to you to discuss your needs and how we may be able to use behavioural data to help you tackle your behavioural challenges.
 
-Alternatively you can 
+Alternatively you can book a mini-consultation by clicking on the pop-up button below.
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">

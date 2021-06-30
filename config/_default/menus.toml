@@ -19,6 +19,12 @@
   weight = 50
 
 [[main]]
+  name = "BSci Consulting"
+  url = "bsci-consulting/"
+  weight = 55
+
+
+[[main]]
   name = "Publications"
   url = "publication/"
   weight = 40
