@@ -24,9 +24,9 @@ image:
   preview_only: false
   caption: Photo by Dan Meyers on Unsplash
 ---
-On 1st July 2021, we were awarded a Business Innovation Growth voucher to support our project entitled: "Combining professional creative content and behavioural science insights to boost engagement with Mental Health support among 18-25 year olds"
+On 1st July 2021, we were awarded a [Business Innovation Growth](https://big-knowledge.co.uk/) voucher to support our project entitled: "Combining professional creative content and behavioural science insights to boost engagement with Mental Health support among 18-25 year olds"
 
-Gaëlle will work with a team inclufing Mr Justin Howard, Create4MentalHealth CEO, members of the South West London & St George's Mental Health NHS Trust Communications team and Mr Ashley Temple from Kingston School of Art on this project with the help of Ms Fanni Szigetvari who will be employed as a research assistant for three months.
+Gaëlle will work with a team including Mr Justin Howard, [Create4MentalHealth](https://create4mentalhealth.com/) CEO, members of the South West London & St George's Mental Health NHS Trust Communications team and Mr Ashley Temple from Kingston School of Art on this project with the help of Ms Fanni Szigetvari who will be employed as a research assistant for three months.
 
 The project aims to equip Create4MentalHealth’s with the tools and knowledge to collect behavioural insight data to inform the development and continuous improvement of its creative multimedia content. We hope this project will result in an enhanced production process for developing multimedia content, which will embed the collection of behavioural insights to identify the most effective content and form, and consequently, help Create4MentalHealth boost its impact on stakeholders. 
 
