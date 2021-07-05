@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Interactivity and cognition"
+title = "Interactivity and cognition (2011 - "
 
 # Date this page was created.
 date = 2019-01-01T00:00:00
