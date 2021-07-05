@@ -1,7 +1,7 @@
 ---
-title: BSci lab awarded funds from the South London Partnership to use behavioural insights to help Create4MentalHealth charity grow!
+title: BSci lab awarded funds from the South London Partnership to partner with Create4mentalhealth!
 date: "2021-07-01T00:00:00Z"
-summary: "."
+summary: "We will use the BIG voucher to help the Create4MentalHealth charity grow and apply behavioural science to better understand what works best to engage youth with mental health issues to seek support using social media."
 draft: false
 featured: false
 
