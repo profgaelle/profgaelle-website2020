@@ -1,7 +1,8 @@
 ---
-title: Heuristics and biases in judgement and choice (2001 - )
+title: Behavioural insights (2001 - )
 summary: This research programme focuses on the cognitive processes, heuristics, and biases which underpin judgements of risk and uncertainty, choices and hypothesis-testing.
 tags:
+- Behavioural insights
 - Judgement
 - Decision-making
 - Heuristics and Biases
@@ -35,3 +36,5 @@ url_slides: ""
 url_video: ""
 ---
 This research programme focuses on the cognitive processes, heuristics, and biases which underpin judgements of risk and uncertainty, choices and hypothesis-testing. It includes studies and reviews of classic heuristics and biases such as the base-rate fallacy and the conjunction fallacy, the framing effect, the illusion of control, and the pseudodiagnostic bias.
+
+It uses the experimental approach to study "what works" in the laboratory and in applied settings as well as a variety of behavioural and process-tracing measures (e.g., eye-tracking, reaction times, facial emotion recognition).
