@@ -1,5 +1,5 @@
 ---
-title: Heuristics and biases in judgement and choice
+title: Heuristics and biases in judgement and choice (2001 - )
 summary: This research programme focuses on the cognitive processes, heuristics, and biases which underpin judgements of risk and uncertainty, choices and hypothesis-testing.
 tags:
 - Judgement
