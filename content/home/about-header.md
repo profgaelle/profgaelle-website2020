@@ -7,4 +7,5 @@ weight: 001  # Order that this section will appear in.
 ---
 
 ![Wellcome to profgaelle.com](welcome.png)
-  
+
+{{< figure src="welcome.png" caption="A caption" >}}  
