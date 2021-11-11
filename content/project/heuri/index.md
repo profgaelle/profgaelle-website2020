@@ -1,5 +1,5 @@
 ---
-title: Behavioural insights (2001 - )
+title: Behavioural insights
 summary: This research programme focuses on the cognitive processes, heuristics, and biases which underpin judgements of risk and uncertainty, choices, decision-making, problem solving and hypothesis testing.
 tags:
 - Behavioural insights

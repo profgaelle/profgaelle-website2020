@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Experimental pragmatics, uncertainty, and reasoning (2005 - 2013)"
+title = "Experimental pragmatics, risk communication, and reasoning"
 
 # Date this page was created.
 date = 2015-04-28T00:00:00
