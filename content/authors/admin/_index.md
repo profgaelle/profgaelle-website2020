@@ -18,6 +18,9 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Gaelle_Vallee-Tourangeau
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/profgaelle
 email: ""
 superuser: true
 ---
