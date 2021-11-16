@@ -6,11 +6,11 @@ light = true
 
 # Primary
 primary = "#cc5a71"
-primary_light = "#e8eae3"
+primary_light = "#ffeaae"
 primary_dark = "#373833"
 
 # Menu
-menu_primary = "#e8eae3"
+menu_primary = "#ffeaae"
 menu_text = "#2b2b2b"
 menu_text_active = "#cc5a71"
 menu_title = "#2b2b2b"
@@ -18,6 +18,6 @@ menu_title = "#2b2b2b"
 # Home sections
 background = "#ffffff"
 home_section_odd = "#ffffff"
-home_section_even = "#e8eae3"
+home_section_even = "#ffeaae"
 
 
