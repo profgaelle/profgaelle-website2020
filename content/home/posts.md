@@ -6,7 +6,7 @@ active: true  # Activate this widget? true/false
 # ... Put Your Section Options Here (title etc.) ...
 
 title: Latest news
-weight: 2
+weight: 3
 
 content:
 # Page type to display. E.g. post, event, or publication.
