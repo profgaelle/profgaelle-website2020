@@ -1,19 +1,19 @@
-+++
+---
 # A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 01  # Order that this section will appear.
+widget: "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless: true  # This file represents a page section.
+active: true  # Activate this widget? true/false
+weight: 2  # Order that this section will appear.
 
-title = "Welcome to profgaelle.com"
-subtitle = "Welcome to profgaelle.com, Gaëlle Vallée-Tourangeau's website."
+# title = "Welcome to profgaelle.com"
+# subtitle = "Welcome to profgaelle.com, Gaëlle Vallée-Tourangeau's website."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns: "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -36,18 +36,25 @@ subtitle = "Welcome to profgaelle.com, Gaëlle Vallée-Tourangeau's website."
   #image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light: light
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding: ["20px", "0", "20px", "0"]
 
 [advanced]
- # Custom CSS. 
- css_style = "custom.scss"
+ # Custom CSS
+ css_style: "custom.scss"
  
- # CSS class.
- css_class = ""
-+++
+ # CSS class
+ css_class: ""
+ 
+ output:
+  toc: true
+---
 
 
+
+# Office hours
+
+- Please follow [this link](https://outlook.office365.com/owa/calendar/ProfGalleValleTourangeau@kingstonuniversity.onmicrosoft.com/bookings/) to book a meeting. You can choose between a **quick update** (15 min) if you have a question or want to share an update, a **progress/supervisory meeting** (30 min) to discuss what was accomplished since our last meeting, what remains to be done, what we will focus on next, or a **problem-solving/decision-making meeting** (1-hour) where we discuss a problem or come together to agree on a course of action.
