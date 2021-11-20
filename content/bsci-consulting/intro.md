@@ -70,5 +70,5 @@ Alternatively you can book a mini-consultation by clicking on the pop-up button 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/profgaelle/30min', text: 'Book a 15-minute mini consultation', color: '#fa2742', textColor: '#ffffff', branding: true }); }</script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/profgaelle/15min', text: 'Schedule time with me', color: '#ef0d50', textColor: '#ffffff', branding: true }); }</script>
 <!-- Calendly badge widget end -->
