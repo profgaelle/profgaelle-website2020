@@ -5,19 +5,19 @@ name = "Default"
 light = true
 
 # Primary
-primary = "#cc5a71"
-primary_light = "#ffeaae"
-primary_dark = "#373833"
+primary = "#fa2742" # Red
+primary_light = "#e8eae3" # Light grey
+primary_dark = "#373833" # Dark grey
 
 # Menu
-menu_primary = "#ffeaae"
-menu_text = "#2b2b2b"
-menu_text_active = "#cc5a71"
-menu_title = "#2b2b2b"
+menu_primary = "#fa2742" # Red
+menu_text = "#2b2b2b" # Black
+menu_text_active = "#fa2742" # Red
+menu_title = "#2b2b2b" # Black
 
 # Home sections
-background = "#ffffff"
-home_section_odd = "#ffffff"
-home_section_even = "#ffeaae"
+background = "#ffffff" # white
+home_section_odd = "#ffffff" # white
+home_section_even = "#e8eae3" # Light grey
 
 
