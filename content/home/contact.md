@@ -2,8 +2,8 @@
 # Contact widget.
 widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 130  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 1  # Order that this section will appear.
 
 title = "Contact"
 subtitle = ""
@@ -18,3 +18,4 @@ autolink = true
 email_form = 0
 +++
 
+<iframe src='https://outlook.office365.com/owa/calendar/ProfGalleValleTourangeau@kingstonuniversity.onmicrosoft.com/bookings/' width='100%' height='100%' scrolling='yes' style='border:0'></iframe>
