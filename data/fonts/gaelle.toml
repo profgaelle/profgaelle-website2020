@@ -2,12 +2,12 @@
 name = "gaelle"
 
 # Optional Google font URL
-google_fonts = "Fredericka+the+Great:400|Roboto:100|Fredericka+the+Great:400|Roboto+Mono|"
+google_fonts = "Fredericka+the+Great:400|Roboto:100|Roboto:400|Roboto+Mono|"
 
 # Font families
 heading_font = "Fredericka the Great"
 body_font = "Roboto"
-nav_font = "Fredericka the Great"
+nav_font = "Roboto"
 mono_font = "Roboto Mono"
 
 # Font size
