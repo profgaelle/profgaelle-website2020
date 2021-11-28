@@ -6,6 +6,11 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Marlène Abadie", "Gaëlle Villejoubert", "Laurent Waroquier", "Frédéric Vallée-Tourangeau"]
 
+# Author notes (optional)
+author_notes:
+- "Post-graduate supervisee"
+
+
 # Publication type.
 # Legend:
 # 0 = Uncategorized
