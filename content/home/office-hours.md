@@ -31,4 +31,9 @@ output:
 
 # Office hours
 
-Please follow [this link](https://outlook.office365.com/owa/calendar/ProfGalleValleTourangeau@kingstonuniversity.onmicrosoft.com/bookings/) to book a meeting. You can choose between a **quick update** (15 min) if you have a question or want to share an update, a **progress/supervisory meeting** (30 min) to discuss what was accomplished since our last meeting, what remains to be done, what we will focus on next, or a **problem-solving/decision-making meeting** (1-hour) where we discuss a problem or come together to agree on a course of action.
+Please follow [**this link**](https://outlook.office365.com/owa/calendar/ProfGalleValleTourangeau@kingstonuniversity.onmicrosoft.com/bookings/) to book a meeting. 
+You can choose between:
+- a **quick update** (15 min) if you have a question or want to share an update, 
+- a **progress/supervisory meeting** (30 min) to discuss what was accomplished since our last meeting, what remains to be done, what we will focus on next, or 
+- a **problem-solving/decision-making meeting** (1-hour) where we discuss a problem or come together to agree on a course of action.
+
