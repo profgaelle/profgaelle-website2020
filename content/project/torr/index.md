@@ -13,7 +13,7 @@ summary = "This research programme is funded by the Wellcome Trust Research on R
 tags = ["Cognition", "Judgement", "Decision-making", "Lens model", "Open science", "Meta-research", "Research policy", "Peer-review"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.torrproject.org/"
+external_link = ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
