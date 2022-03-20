@@ -56,11 +56,7 @@ Welcome to the Behavioural Science & creative insights (BSci) Lab at [Kingston B
 
 # Vacancies for post-doctoral positions
 
-- [**KTP Associate - Behavioural Scientist**](https://jobs.kingston.ac.uk/vacancy/ktp-associate-behavioural-scientist-464808.html). Click on the link for further information. Closing date: {{< hl >}}05/12/2021{{< /hl >}}.
-
-# Vacancies for research assistant positions
-
-- **Graduate behavioural science research assistant**. We are currently looking for a part-time post-graduate research assistant to help manage data collection in the Behavioural Science Lab at Kingston University on our partner project with Create4MentalHealth to support youth mental health. You will learn to use Noldus Face Reader and Tobii Pro Nano and measure emotional reactions to videos. This builds upon the lab's work by [Riege et al., 2020]({{< ref "publication/riege-covert-2021/index.md" >}})) as well as work using Face Reader to measure emotions and work exploring the [Kama Muta emotion](https://kamamutalab.org/wp-content/uploads/2018/03/km_pol_ads_final_draft.pdf) and [facial expressions in response to film stimuli](https://pure.uva.nl/ws/files/2310188/138305_Lewinsk_et_al_JNPE_FACIAL_EXPRESSIONS_INAMUSING_STIMULI_Aug2013RR_FS.pdf). The ideal candidate will be able to work well in a team as well as independently, highly conscientious and organised, have strong numeracy and digital literacy skills, with experience of using advanced behavioural science or data science software (e.g., experiment builder software, and/or RStudio) and of managing data using the osf platform. Hourly rate between £17.19 and £20.22 depending on skills and experience for up to 220 hours. **To apply, [click here](mailto:f.d.szigetvari@kingston.ac.uk?subject=BSci%20Lab%20RA%20Application)** ({{< hl >}}Do not change the email subject!{{< /hl >}}) and submit a CV with named referees, cover letter outlining skills, experience and availability from December 2021 to March 2021. Closing date: {{< hl >}}10/12/2021{{< /hl >}}. Review of applications will begin immediately and will continue until the position is filled.
+- [**KTP Associate - Behavioural Scientist**](#). We are still looking to recruit for this position. Please contact [Professor Gaëlle Vallée-Tourangeau](mailto:g.vallee-tourangeau@kingston.ac.uk) for further information.
 
 # About the BSci lab
 
@@ -68,4 +64,6 @@ To study these processes, we use a combination experiments (e.g., online experim
 
 We seek to contribute to our understanding of applied issues such as the the cognitive processes underpinning peer-reviewers’ judgments of in research grant funding applications, the motives and barriers to sustainable consumption of children's toys, the role of healthcare workers’ motivations in flu vaccination decisions, executives’ career decision trajectories, and traders’ investment decisions. In addition, we also study more theoretical issues such as how behaviour, sight, and imagination interact with external choice and problem architectures to produce decisions and creative solutions.
 
-If you are an undergraduate or postgraduate at Kingston University interested in research with our lab, please send a short email about your interest and background, and a cv and any previous written research report to [g.vallee-tourangeau@kingston.ac.uk](mailto:g.vallee-tourangeau@kingston.ac.uk).
+# Vacancies for research assistant positions
+
+- We do not have paid position available at the moment. However, you can volunteer at the BSci lab to be involved in helping to run behavioural science experiments, as well as assisting in data preparation, coding and analysis. Volunteers will be trained and must be able to commit to at least one day a week over a prolonged period of time (at least one teaching block). If you would like to apply, please email a CV and a statement about why you are interested in volunteering at the BSci Lab as well as what skills and personal qualities you can bring, to (BSci-volunteering@profgaelle.com)[mailto:BSci-volunteering@profgaelle.com].
