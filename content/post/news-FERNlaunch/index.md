@@ -1,5 +1,5 @@
 ---
-title: The French Education and Research Network (FERN) officially launch its new network of French (or francophile) researchers based in the United Kingdom. 
+title: "The French Education and Research Network (FERN) officially launch its new network of French (or francophile) researchers based in the United Kingdom."
 date: "2021-03-14T00:00:00Z"
 summary: "FERN-UK aims to bring together French researchers based in the United Kingdom in order to support Franco-British research collaborations in universities or private sectors, to provide support for exchanges of graduate students and to create a dynamic of information and discussion within the community. This network is extended to British Francophile scientists who wish to participate." 
 draft: false
