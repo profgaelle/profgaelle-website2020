@@ -22,6 +22,6 @@ image:
   caption: Photo by Dan Meyers on Unsplash
 ---
 
-{{< tweet user="profgaelle" id="1504883335855804418" >}}
+<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Très heureuse de contribuer au lancement de ce réseau et au renforcement des collaborations de recherche entre le Royaume Uni, la France et l&#39;Europe! Mon nouveau motto est la citation de notre marraine Professeure Edith Heard: &quot;Il faut soutenir la recherc…<a href="https://t.co/GNJ40lGF2l">https://t.co/GNJ40lGF2l</a></p>&mdash; Prof Gaëlle Vallée-T. (@ProfGaelle) <a href="https://twitter.com/ProfGaelle/status/1504883335855804418?ref_src=twsrc%5Etfw">March 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 If you wish to join the network and keep updated of future developments, you can register here: https://bit.ly/37uWRVf 
