@@ -1,5 +1,5 @@
 +++
-title = "Peer reviewers’ dilemmas: a qualitative exploration of decisional conﬂict in the evaluation of grant applications in the medical humanities and social sciences"
+title = "Peer reviewers’ dilemmas: a qualitative exploration of decisional conflict in the evaluation of grant applications in the medical humanities and social sciences"
 date = 2022-03-04T00:00:00
 draft = false
 
