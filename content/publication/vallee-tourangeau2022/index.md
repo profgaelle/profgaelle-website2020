@@ -1,10 +1,10 @@
 +++
-title = "Motors of influenza vaccination uptake and vaccination advocacy in healthcare workers: Development and validation of two short scales"
-date = 2017-09-01T00:00:00
+title = "Peer reviewers’ dilemmas: a qualitative exploration of decisional conﬂict in the evaluation of grant applications in the medical humanities and social sciences"
+date = 2022-03-04T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Gaëlle Vallée-Tourangeau", "Marianne Promberger", "Karis Moon", "Ana Wheelock", "Miroslav Sirota", "Christine Norton", "Nick Sevdalis"]
+authors = ["Gaëlle Vallée-Tourangeau", "Ana Wheelock", "Tushna Vandrevala", "Priscilla Harris"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["Gaëlle Vallée-Tourangeau", "Marianne Promberger", "Karis Moon", "A
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Vaccine*, *36*(44), 6540-6545."
+publication = "*Humanities and Social Sciences Communications*, *9*, Article 70."
 
 # Abstract and optional shortened version.
 abstract = "Independent evaluations of grant applications by subject experts are an important part of the peer-review system. However, little is known about the real-time experiences of peer reviewers or experts who perform reviews of a grant application independently. This study sought to gain insight into this stage of the grant evaluation process by observing how experts conduct an independent review in near real time. Using the think aloud approach and Critical Decision Method of interviewing, in-depth interviews were conducted with 16 peer reviewers from a range of roles and disciplines within the medical humanities and social sciences. Participants were asked to think aloud while reviewing applications to different grant schemes from a single prestigious funder. The analysis shows reviewers encountered ﬁve dilemmas during the evaluation process. These dilemmas were related to whether or not one should (1) accept an invitation to review, (2) rely exclusively on the information presented in the application, (3) pay attention to institutional prestige, (4) offer comments about aspects that are not directly related to academics’ area of expertise, and (5) to take risks and overlook shortcomings rather than err on the side of caution. In order to decide on the appropriate course of action, reviewers often engaged in a series of deliberations and trade-offs—varying in length and complexity. However, their interpretation of what was ‘right’ was inﬂuenced by their values, preferences and experiences, but also by relevant norms and their understanding of the funder’s guidelines and priorities. As a result, the way reviewers approached the identiﬁed dilemmas was idiosyncratic and sometimes diametrically opposed to other reviewers’ views, which could lead to variation in peer-review outcomes. The dilemmas we have uncovered suggest that peer reviewers engage in thoughtful considerations during the peer-review process. We should, therefore, be wary of reducing the absence of consensus as resulting from biased, instinctive thinking. Rather, these ﬁndings highlight the diversity of values, priorities and habits and ways of working each reviewer brings to the fore when reviewing the applicants and their project proposals and call for further reﬂection on, and study of, this “invisible work” to better understand and continue to improve the peer-reviewing process."
