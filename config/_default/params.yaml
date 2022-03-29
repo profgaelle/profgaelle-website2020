@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: default
-  theme_night: default
+  theme_night:
   font: gaelle
   font_size: M
 
