@@ -2,39 +2,41 @@
 name = "Default"
 
 # Is theme light or dark?
-light = true
 
-# Primary
-primary = "#EF0D50" # Raspberry
-# primary = "#fa2742" # Red
+[light]
 
-primary_light = "#F8E5E5" # Light pink
-# primary_light = "#e8eae3" # Light grey
+  # Primary
+  primary = "#EF0D50" # Raspberry
+  # primary = "#fa2742" # Red
 
-primary_dark = "#EB3A70" # Black
-# primary_dark = "#373833" # Dark grey
+  primary_light = "#F8E5E5" # Light pink
+  # primary_light = "#e8eae3" # Light grey
 
-# Menu
-menu_primary = "#ffffff" # White
-# menu_primary = "#fa2742" # Red
+  primary_dark = "#EB3A70" # Black
+  # primary_dark = "#373833" # Dark grey
 
-menu_text = "#EB3A70" # Black
-# menu_text = "#2b2b2b" # Black
+  # Menu
+  menu_primary = "#ffffff" # White
+  # menu_primary = "#fa2742" # Red
 
-menu_text_active = "#EF0D50" # Raspberry
+  menu_text = "#EB3A70" # Black
+  # menu_text = "#2b2b2b" # Black
 
-menu_title = "#EB3A70" # Black
-# menu_title = "#2b2b2b" # Black
+  menu_text_active = "#EF0D50" # Raspberry
 
-# Home sections
+  menu_title = "#EB3A70" # Black
+  # menu_title = "#2b2b2b" # Black
 
-background = "#ffffff" # white
-# background = "#ffffff" # white
+  # Home sections
 
-home_section_odd = "#ffffff" # white
-# home_section_odd = "#ffffff" # white
+  background = "#ffffff" # white
+  # background = "#ffffff" # white
 
-home_section_even = "#F8E5E5" # Light pink
-# home_section_even = "#e8eae3" # Light grey
+  home_section_odd = "#ffffff" # white
+  # home_section_odd = "#ffffff" # white
+
+  home_section_even = "#F8E5E5" # Light pink
+  # home_section_even = "#e8eae3" # Light grey
+
 
 

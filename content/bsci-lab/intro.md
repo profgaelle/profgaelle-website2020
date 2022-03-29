@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
-title = "Introduction"
+title = ""
 subtitle = ""
 
 
@@ -54,15 +54,15 @@ subtitle = ""
 
 Welcome to the Behavioural Science & creative insights (BSci) Lab at [Kingston Business School](https://www.kingston.ac.uk/faculties/faculty-of-business-and-social-sciences/schools/kingston-business-school/). Our research focuses on the role played by social, physical and/or mental processes in decision-making, uncertainty judgements and creative thinking both in the lab and in applied settings.
 
-# Vacancies for post-doctoral positions
-
-- [**KTP Associate - Behavioural Scientist**](#). We are still looking to recruit for this position. Please contact [Professor Gaëlle Vallée-Tourangeau](mailto:g.vallee-tourangeau@kingston.ac.uk) for further information.
-
 # About the BSci lab
 
 To study these processes, we use a combination experiments (e.g., online experiments and surveys, interactive lab experiments, and eye-tracking experiments) and observational studies (e.g., video-based behaviour observations in the lab, video-based process-tracing via remote screen-sharing).
 
 We seek to contribute to our understanding of applied issues such as the the cognitive processes underpinning peer-reviewers’ judgments of in research grant funding applications, the motives and barriers to sustainable consumption of children's toys, the role of healthcare workers’ motivations in flu vaccination decisions, executives’ career decision trajectories, and traders’ investment decisions. In addition, we also study more theoretical issues such as how behaviour, sight, and imagination interact with external choice and problem architectures to produce decisions and creative solutions.
+
+# Vacancies for post-doctoral positions
+
+- [**KTP Associate - Behavioural Scientist**](#). We are still looking to recruit for this position. Please contact [Professor Gaëlle Vallée-Tourangeau](mailto:g.vallee-tourangeau@kingston.ac.uk) for further information.
 
 # Vacancies for research assistant positions
 

@@ -72,4 +72,4 @@ In this section I share curated links which I found useful and may interest peop
 
 ## Data analysis resources
 
-- [Qualitative Content Analysis e-book](https://www.psychopen.eu/fileadmin/user_upload/books/mayring/ssoar-2014-mayring-Qualitative_content_analysis_theoretical_foundation.pdf): A (free) thorough and hands-on e-book for conducting content analysis.
+- [Qualitative Content Analysis e-book](https://www.ssoar.info/ssoar/bitstream/handle/document/39517/ssoar-2014-mayring-Qualitative_content_analysis_theoretical_foundation.pdf): A (free) thorough and hands-on e-book for conducting content analysis.
