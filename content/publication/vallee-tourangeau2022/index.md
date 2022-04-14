@@ -77,3 +77,4 @@ math = false
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+<div data-badge-type="donut" data-doi="10.1057/s41599-022-01050-6" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
