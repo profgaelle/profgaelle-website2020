@@ -107,9 +107,9 @@ add_badge = true
         <div  style="float:right"; 
           data-link-target="_blank" 
           data-badge-details="none" 
-          data-badge-type="medium-donut"
+          data-badge-type="donut"
           data-doi="10.1057/s41599-022-01050-6"   
-          data-condensed="true" 
+          data-condensed="true"
           data-hide-no-mentions="true" 
           class="altmetric-embed">
         </div>
