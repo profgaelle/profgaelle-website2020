@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: Welcome to the BSci Lab
+    - title: Welcome to the BeSci Lab
       content: 
       align: center
       background:

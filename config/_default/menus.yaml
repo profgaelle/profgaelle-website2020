@@ -16,10 +16,10 @@ main:
   - name: Talks
     url: 'talk/'
     weight: 40
-  - name: BSci Lab
+  - name: BeSci Lab
     url: 'besci-lab'
     weight: 50
-  - name: BSci Consulting
+  - name: BeSci Consulting
     url: 'besci-consulting/'
     weight: 60
   - name: Blog
