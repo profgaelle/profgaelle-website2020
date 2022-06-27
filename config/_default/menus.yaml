@@ -17,10 +17,10 @@ main:
     url: 'talk/'
     weight: 40
   - name: BSci Lab
-    url: 'bsci-lab'
+    url: 'besci-lab'
     weight: 50
   - name: BSci Consulting
-    url: 'bsci-consulting/'
+    url: 'besci-consulting/'
     weight: 60
   - name: Blog
     url: 'post/'
