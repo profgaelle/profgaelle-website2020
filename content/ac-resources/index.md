@@ -17,6 +17,7 @@ In this section I share curated links which I found useful and may interest peop
 
 ## Resources for responsible research and open science
 
+- [DoAJ](https://doaj.org): This is an independent index containing over 17 000 peer-reviewed, open access journals covering all areas of science, technology, medicine, social sciences, arts and humanities.
 - [SIPS](https://improvingpsych.org/): a learned society which brings together scholars working to improve methods and practices in psychological science. All the resources from the last SIPS conference are available on the OSF website [here](https://osf.io/vxq9d/). I recommend watching the videocast by Balazs Aczel, available [here](https://osf.io/2aryd/), starts at 18m30s.
 - [RRBM](https://www.rrbm.network/): a virtual organisation dedicated to inspiring, encouraging, and supporting credible and useful research in the business and management disciplines. I encouraged anyone to read (and reflect on!) the [principles of responsible science](https://www.rrbm.network/position-paper/principles-of-responsible-science/). 
 - [OSF](https://osf.io/): A free, open platform to support the management of research projects and enable collaboration. It is used by psychological scientists to share their materials and their data.

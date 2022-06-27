@@ -52,18 +52,14 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the Behavioural Science & creative insights (BSci) Lab at [Kingston Business School](https://www.kingston.ac.uk/faculties/faculty-of-business-and-social-sciences/schools/kingston-business-school/). Our research focuses on the role played by social, physical and/or mental processes in decision-making, uncertainty judgements and creative thinking both in the lab and in applied settings.
+Welcome to the Behavioural Science & creative insights (BeSci) Lab at [Kingston Business School](https://www.kingston.ac.uk/faculties/faculty-of-business-and-social-sciences/schools/kingston-business-school/). Our research focuses on the role played by social, physical and/or mental processes in decision-making, uncertainty judgements and creative thinking both in the lab and in applied settings.
 
-# About the BSci lab
+# About the BeSci lab
 
 To study these processes, we use a combination experiments (e.g., online experiments and surveys, interactive lab experiments, and eye-tracking experiments) and observational studies (e.g., video-based behaviour observations in the lab, video-based process-tracing via remote screen-sharing).
 
 We seek to contribute to our understanding of applied issues such as the the cognitive processes underpinning peer-reviewers’ judgments of in research grant funding applications, the motives and barriers to sustainable consumption of children's toys, the role of healthcare workers’ motivations in flu vaccination decisions, executives’ career decision trajectories, and traders’ investment decisions. In addition, we also study more theoretical issues such as how behaviour, sight, and imagination interact with external choice and problem architectures to produce decisions and creative solutions.
 
-# Vacancies for post-doctoral positions
-
-- [**KTP Associate - Behavioural Scientist**](#). We are still looking to recruit for this position. Please contact [Professor Gaëlle Vallée-Tourangeau](mailto:g.vallee-tourangeau@kingston.ac.uk) for further information.
-
 # Vacancies for research assistant positions
 
-- We do not have paid position available at the moment. However, you can volunteer at the BSci lab to be involved in helping to run behavioural science experiments, as well as assisting in data preparation, coding and analysis. Volunteers will be trained and must be able to commit to at least one day a week over a prolonged period of time (at least one teaching block). If you would like to apply, please email a CV and a statement about why you are interested in volunteering at the BSci Lab as well as what skills and personal qualities you can bring, to (BSci-volunteering@profgaelle.com)[mailto:BSci-volunteering@profgaelle.com].
+- We do not have paid position available at the moment. However, you can volunteer at the BeSci lab to be involved in helping to run behavioural science experiments, as well as assisting in data preparation, coding and analysis. Volunteers will be trained and must be able to commit to at least one day a week over a prolonged period of time (at least one teaching block). If you would like to apply, please email a CV and a statement about why you are interested in volunteering at the BSci Lab as well as what skills and personal qualities you can bring, to (g.vallee-tourangeau@profgaelle.com)[mailto:g.vallee-tourangeau@profgaelle.com].
