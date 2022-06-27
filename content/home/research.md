@@ -29,7 +29,7 @@ design:
 
 # Research
 
-- {{< hl >}}Research interests and current opportunities to join the Behavioural Science and creative insights research lab are advertised [**here**]({{< ref "bsci-lab/index.md" >}}) together with guidance for applicants{{< /hl >}}.
+- {{< hl >}}Research interests and current opportunities to join the Behavioural Science and creative insights research lab are advertised [**here**]({{< ref "besci-lab/index.md" >}}) together with guidance for applicants{{< /hl >}}.
 
 I have also held a number of research leadership and citizenship roles:
 
