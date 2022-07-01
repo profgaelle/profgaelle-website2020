@@ -10,7 +10,7 @@ headless: true
 weight: 1
 
 # Section title
-title: BSci Consulting
+title: BeSci Consulting
 
 # Section subtitle
 subtitle: Behavioural Science and creative insights consulting services
@@ -26,7 +26,7 @@ design:
 ---
 Do you wish you would better understand your consumers, patients, or employees' behaviours? Do you need help to nudge your key stakeholders to adopt different behaviours, make better choices, be more innovative to achieve your goals?
 
-The BSci consulting team can help you!
+The BeSci consulting team can help you!
 
 Examples of past services we have provided include:
 
