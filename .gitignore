@@ -4,6 +4,9 @@
 resources/
 public/
 .Rproj.user
+.RData
+.Rhistory
+.DS_Store
 # Jupyter
 .ipynb_checkpoints/
 # Node
