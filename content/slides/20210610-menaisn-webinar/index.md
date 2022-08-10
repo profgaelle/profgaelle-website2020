@@ -4,15 +4,9 @@ summary: Annual vaccination is the most effective way to prevent and control the
 authors: 
 - gaelle-vallee-tourangeau
 tags: 
-- vaccination
-- healthcare workers
 - vaccine hesitancy
-- vaccine advocacy
-- MoVac scale
-- MovAd scale
-- open access
-categories:
-- research
+  # categories:
+  # - Add your category
 date: "2021-06-10T17:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
