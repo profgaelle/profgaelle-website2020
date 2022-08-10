@@ -10,12 +10,10 @@ categories:
 projects:
   - heuri
 tags:
-  - innovation
-  - knowledge exchange
-  - mental health
-  - help seeking
-  - eye tracking
-  - behavioural insights
+  - Behavioural science
+  - Mental health
+  - Eye-tracking
+  - Facial expression recognition
 
 url_pdf: ""
 
