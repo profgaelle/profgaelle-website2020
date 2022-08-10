@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "Interactivity and cognition"
+title = "Creative cognition, innovation and problem-solving"
 
 # Date this page was created.
 date = 2019-01-01T00:00:00
 
 # Project summary to display on homepage.
-summary = "This research programme aims to better understand how interactivity transforms higher cognition and impacts cognitive performance."
+summary = "This research programme aims to better understand how people solve problems, create, and innovate."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Interactivity", "Cognition"]
+tags = ["Innovation", "Creative cognition", "Insight", "Distributed cognition"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -54,7 +54,12 @@ The research work so far examined the role interactivity can play in improving p
 
 - Prof Frédéric Vallée-Tourangeau
 - Prof Sune Vork Steffensen
+- Prof B.I.J.M. van der Heijden (Beatrice) 
+- Dr Pushpa Kumarapeli
 - Dr Niyat Henok
 - Dr Miroslav Sirota
+- Dr Evy Sakellariou
 - Ms Helen Hallpike
+- Ms Fanni Szigetvari
+
 
