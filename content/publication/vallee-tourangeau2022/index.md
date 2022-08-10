@@ -44,7 +44,7 @@ projects = ["torr"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Cognition", "Judgement", "Decision-making", "Meta-research", "Research policy", "Peer-review", "Open access"]
+tags = ["Judgement & Decision-making", "Peer-reviewing", "Academia", "Meta-research"]
 
 # Links (optional).
 url_pdf = "https://rdcu.be/cIdQK"
