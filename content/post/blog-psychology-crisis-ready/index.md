@@ -9,8 +9,8 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Gaëlle Vallée-Tourangeau"]
 
-tags = ["Psychological Sciences", "Covid-19", "Replication crisis", "Policy-making", "Open science", "Academia"]
-categories = ["Research Impact", "Blog post"]
+tags = ["Academia", "Research Impact"]
+categories = ["Blog post"]
 
 summary = ""
 
