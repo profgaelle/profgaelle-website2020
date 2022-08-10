@@ -20,15 +20,8 @@ publishDate: "2021-06-10T00:00:00Z"
 
 authors: 
 - gaelle-vallee-tourangeau
-tags: 
-- vaccination
-- healthcare workers
-- vaccine hesitancy
-- vaccine advocacy
-- MoVac scale
-- MovAd scale
-- open access
-
+tags:
+- Vaccine hesitancy
 
 # Is this a featured talk? (true/false)
 featured: false
