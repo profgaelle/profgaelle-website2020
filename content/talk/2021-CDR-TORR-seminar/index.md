@@ -19,7 +19,7 @@ all_day: false
 publishDate: "2021-03-03T00:00:00Z"
 
 authors: [gaelle-vallee-tourangeau]
-tags: ["Cognition", "Judgement", "Decision-making", "Lens model", "Open science", "Meta-research"]
+tags: ["Academia", "Meta-research", "Judgement & Decision-making",	"Peer-reviewing"]
 
 # Is this a featured talk? (true/false)
 featured: false
