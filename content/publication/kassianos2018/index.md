@@ -57,13 +57,7 @@ slides: 20210610-menaisn-webinar
 # Tags (optional).
 #   Set `tags: []` for no tags, or use the form `tags: ["A Tag", "Another Tag"]` for one or more tags.
 tags:
-- vaccination
-- healthcare workers
-- vaccine hesitancy
-- vaccine advocacy
-- MoVac scale
-- MovAd scale
-- open access
+- Vaccine hesitancy
 
 # Links (optional).
 url_pdf: ""
