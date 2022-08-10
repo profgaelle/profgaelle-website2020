@@ -46,7 +46,7 @@ projects = ["systm"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Interactivity", "Mental arithmetic", "Articulatory suppression", "Working memory", "Math anxiety", "Systemic cognition"]
+tags = ["Problem-solving", "Distributed cognition", "Mathematical cognition"]
 
 # Links (optional).
 url_pdf = "files/vallee-tourangeau2016.pdf"

@@ -45,7 +45,7 @@ projects = ["hcwvax"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Vaccination", "Decision-making", "Healthcare workers", "Autonomy", "Motivation"]
+tags = ["Vaccine hesitancy", "Behavioural science"]
 
 # Links (optional).
 url_pdf = ""
