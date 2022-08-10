@@ -47,7 +47,7 @@ slides = "example-slides"
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Problem-solving", Hypothesis-testing", "Social cognition", "Conversational pragmatics"]
+tags = ["Problem-solving", "Hypothesis-testing", "Social cognition", "Conversational pragmatics"]
 
 # Links (optional).
 url_pdf = "files/villejoubert2012.pdf"
