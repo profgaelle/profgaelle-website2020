@@ -44,7 +44,7 @@ projects = ["hcwvax"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["vaccine hesitancy", "MoVac scale", "MovAd scale", "open access"]
+tags = ["Vaccine hesitancy"]
 
 # Links (optional).
 url_pdf = "files/vallee-tourangeau2017a.pdf"

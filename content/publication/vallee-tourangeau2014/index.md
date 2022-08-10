@@ -45,7 +45,7 @@ projects = ["systm"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["vaccine hesitancy", "MoVac scale", "MovAd scale", "open access"]
+tags = ["Problem-solving", "Distributed cognition"]
 
 # Links (optional).
 url_pdf = "https://www.ingentaconnect.com/content/imp/chk/2014/00000021/F0020001/art00009"
