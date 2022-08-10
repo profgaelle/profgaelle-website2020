@@ -11,11 +11,8 @@ summary: "This research programme aims to better understand the levels of autono
 # Tags: can be used for filtering projects.
 # Example: `tags:  ["machine-learning", "deep-learning"]`
 tags:
-- Vaccination
-- Healthcare workers
-- Motivation
-- Risk perception
-- Decision-making
+- Vaccine hesitancy
+- Behavioural science
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
