@@ -45,7 +45,7 @@ projects = ["heuri"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Judgement & Decision-making",	"Heuristics & Biases", "Dual-process theory"]
+tags = ["Judgement & Decision-making",	"Heuristics & Biases"]
 
 # Links (optional).
 url_pdf = "https://cloudfront.escholarship.org/dist/prd/content/qt2677g2j0/qt2677g2j0.pdf?t=op331w"
