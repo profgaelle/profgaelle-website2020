@@ -10,10 +10,7 @@ categories:
 projects:
   - hcwvax
 tags:
-  - vaccination
-  - healthcare workers
-  - vaccine hesitancy
-  - vaccine advocacy
+  - Vaccine hesitancy
 
 url_pdf: "https://doi.org/10.1037/xap0000348"
 
