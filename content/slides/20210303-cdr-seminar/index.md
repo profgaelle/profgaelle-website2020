@@ -2,7 +2,7 @@
 title: Slides
 summary: Applying Social Judgment Theory to better understand what peer reviewers pay attention to when evaluating fellowship grant proposals.
 authors: [gaelle-vallee-tourangeau]
-tags: ["Cognition", "Judgement", "Decision-making", "Lens model", "Open science", "Meta-research"]
+tags: ["Academia", "Meta-research", "Judgement & Decision-making",	"Peer-reviewing"]
 categories: []
 date: "2021-03-03T14:00:00Z"
 slides:
