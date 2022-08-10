@@ -10,7 +10,7 @@ summary = "This research programme is funded by the Wellcome Trust Research on R
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Cognition", "Judgement", "Decision-making", "Lens model", "Open science", "Meta-research", "Research policy", "Peer-review"]
+tags = ["Academia", "Meta-research", "Judgement & Decision-making",	"Peer-reviewing"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
