@@ -46,7 +46,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Interactivity", "Insight problem-solving"]
+tags = ["Problem-solving", "Insight", "Distributed cognition"]
 
 # Links (optional).
 url_pdf = ""

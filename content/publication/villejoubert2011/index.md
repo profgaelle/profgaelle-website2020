@@ -46,7 +46,7 @@ projects = ["systm"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Interactivity", "open access"]
+tags = ["Distributed cognition", "Judgement & Decision-making", "Risk-taking"]
 
 # Links (optional).
 url_pdf = "files/villejoubert2011.pdf"

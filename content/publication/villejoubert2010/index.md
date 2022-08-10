@@ -45,7 +45,7 @@ projects = ["heuri"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Risk management", "Risk perception", "Behavioural finance", "Heuristics and biases", "Probability judgement", "Emotions"]
+tags = ["Behavioural science", "Behavioural finance", "Judgement & Decision-making",	"Heuristics & Biases"]
 
 # Links (optional).
 url_pdf = ""

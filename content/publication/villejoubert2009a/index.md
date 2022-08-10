@@ -22,7 +22,7 @@ publication = "In N. Taatgen, H. van Rijn, L. Schomaker, and J. Nerbonne (Eds.),
 publication_short = "In *Proceedings of the 31st annual meeting of the Cognitive Science Society*"
 
 # Abstract and optional shortened version.
-abstract = "This study aimed to better understand the cognitive underpin- nings of people’s intuitions concerning the conjunction rule of probabilities. Using a novel methodology to study the con- flict between representativeness and logic considerations in the conjunction fallacy, results revealed that, contrary to what is commonly assumed, assessments of representativeness are not automatic and rapid but are in fact most influential when par- ticipants are not pressured by time to provide a judgment. Im- plications for the different dual-system accounts of probability judgments will be discussed."
+abstract = "This study aimed to better understand the cognitive underpinnings of people’s intuitions concerning the conjunction rule of probabilities. Using a novel methodology to study the con- flict between representativeness and logic considerations in the conjunction fallacy, results revealed that, contrary to what is commonly assumed, assessments of representativeness are not automatic and rapid but are in fact most influential when par- ticipants are not pressured by time to provide a judgment. Im- plications for the different dual-system accounts of probability judgments will be discussed."
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -45,7 +45,7 @@ projects = ["heuri"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Conjunction fallacy", "Dual-processes", "Intuitive thinking", "Deliberative thinking"]
+tags = ["Judgement & Decision-making",	"Heuristics & Biases", "Dual-process theory"]
 
 # Links (optional).
 url_pdf = "https://cloudfront.escholarship.org/dist/prd/content/qt2677g2j0/qt2677g2j0.pdf?t=op331w"
