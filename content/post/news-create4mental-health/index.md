@@ -11,8 +11,8 @@ projects:
   - heuri
 tags:
   - Behavioural science
+  - Judgement & Decision-making
   - Mental health
-  - Eye-tracking
   - Facial expression recognition
 
 url_pdf: ""

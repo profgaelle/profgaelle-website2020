@@ -46,7 +46,7 @@ slides = "example-slides"
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Verbal probability", "Membership functions", "Guilt judgements"]
+tags = ["Social cognition",	"Conversational pragmatics", "Judgement & Decision-making",	"Risk communication"]
 
 # Links (optional).
 url_pdf = "https://www.researchgate.net/profile/Gaelle_Vallee-Tourangeau/publication/236970847_Can_membership-functions_capture_the_directionality_of_verbal_probabilities/links/00b7d53b310cb4c53d000000.pdf"

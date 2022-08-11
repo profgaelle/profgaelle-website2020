@@ -46,7 +46,7 @@ slides = "example-slides"
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Similarity heuristic", "Guilt judgements"]
+tags = ["Judgement & Decision-making",	"Heuristics & Biases"]
 
 # Links (optional).
 url_pdf = "files/alison2012.pdf"

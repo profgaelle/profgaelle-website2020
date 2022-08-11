@@ -16,13 +16,13 @@ organizations:
   url: "http://www.kingston.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on understanding how people handle risk and uncertainty. How they perceive and communicate risks, how they make decisions in the face of uncertainty.
+bio: I am an experimental psychologist by training, and my research expertise lies in applied behavioural science, judgement and decision-making, and creative cognition. 
 
 # Interests to show in About widget
 interests:
 - Peer-review judgment and decision-making
-- Problem-solving and creativity
-- Motivation and decision-making
+- Problem-solving and creative cognition
+- Determinants of vaccine uptake
 
 # Education to show in About widget
 education:
