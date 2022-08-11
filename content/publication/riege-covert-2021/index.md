@@ -8,7 +8,12 @@ authors:
 - Anine Riege
 - Amélie Gourdon-Kanhukamwe
 - Gaëlle Vallée-Tourangeau
-tags: []
+tags: 
+- Judgement & Decision-making
+- Behavioural science
+- Eye-tracking
+- Research methods
+
 categories: []
 date: '2021-11-01'
 lastmod: 2021-11-21T08:16:55Z
