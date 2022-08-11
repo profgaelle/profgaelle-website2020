@@ -10,9 +10,8 @@ categories:
 projects:
 
 tags:
-  - innovation
-  - knowledge exchange
-  - research policy
+  - Academia
+  - French Education and Research Network
 
 url_pdf: ""
 
@@ -22,7 +21,8 @@ image:
   caption: Photo by Dan Meyers on Unsplash
   preview_only: false
 ---
+Très heureuse de contribuer au lancement de ce réseau et au renforcement des collaborations de recherche entre le Royaume Uni, la France et l&#39;Europe!
 
-<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Très heureuse de contribuer au lancement de ce réseau et au renforcement des collaborations de recherche entre le Royaume Uni, la France et l&#39;Europe! Mon nouveau motto est la citation de notre marraine Professeure Edith Heard: &quot;Il faut soutenir la recherc…<a href="https://t.co/GNJ40lGF2l">https://t.co/GNJ40lGF2l</a></p>&mdash; Prof Gaëlle Vallée-T. (@ProfGaelle) <a href="https://twitter.com/ProfGaelle/status/1504883335855804418?ref_src=twsrc%5Etfw">March 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Lancement du nouveau réseau de chercheurs et étudiants français 🇫🇷 basés au Royaume-Uni 🇬🇧 <a href="https://twitter.com/uk_fern?ref_src=twsrc%5Etfw">@uk_fern</a> ce soir à <a href="https://twitter.com/ifru_london?ref_src=twsrc%5Etfw">@ifru_london</a>. <br>Vous êtes un étudiant ou chercheur français (toute discipline) exerçant au Royaume-Uni ? <br>💡Rejoignez le réseau dès maintenant : <a href="https://t.co/BIyBuKq3Hh">https://t.co/BIyBuKq3Hh</a> <a href="https://t.co/Rq9RfiCrbj">https://t.co/Rq9RfiCrbj</a> <a href="https://t.co/J4718hjiGd">pic.twitter.com/J4718hjiGd</a></p>&mdash; French Embassy UK🇫🇷🇪🇺 (@FranceintheUK) <a href="https://twitter.com/FranceintheUK/status/1503446483873501185?ref_src=twsrc%5Etfw">March 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 If you wish to join the network and keep updated of future developments, you can register here: https://bit.ly/37uWRVf 
