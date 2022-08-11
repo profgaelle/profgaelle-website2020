@@ -46,7 +46,7 @@ slides = "example-slides"
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Illusion of control", "Risk-taking", "Social influences"]
+tags = ["Judgement & Decision-making", "Illusion of control", "Risk-taking", "Social cognition"]
 
 # Links (optional).
 url_pdf = ""
