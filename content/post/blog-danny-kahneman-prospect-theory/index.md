@@ -5,20 +5,15 @@ summary: "This post showcases a video of the keynote address by Professor Daniel
 authors:
 - gaelle-vallee-tourangeau
 tags:
-- Prospect Theory
-- Keynote
-- JDM research
-- Daniel Kahneman
-- History of behavioural sciences
-- JDM resources
-- Open science
+- Judgement & Decision-making
+- Prospect theory
 - Academia
+- Meta-research
 
 projects: 
 - heuri
 
 categories:
-- Behavioural Science
 - Blog post
 
 date: "2016-04-20T00:00:00Z"

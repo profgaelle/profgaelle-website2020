@@ -10,7 +10,7 @@ summary = "This research programme focuses on the pragmatic processes involved i
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Uncertainty Communication", "Experimental pragmatics", "Gricean maxims", "Verbal probabilities", "Quantifiers", "Politeness theory"]
+tags = ["Social cognition",	"Conversational pragmatics", "Judgement & Decision-making", "Risk communication", "Uncertainty communication", "Problem-solving", "Reasoning"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -43,4 +43,4 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
-This research programme focuses on the pragmatic processes involved in communicating uncertainties, quantities and in logical reasoning. It includes experimental studies examining pragmatic influences on how people interpret verbal probabilities and quantifiers and how they draw inferences.
+This research programme focuses on the pragmatic processes involved in communicating uncertainties, quantities and risk as well as in logical reasoning. It includes experimental studies examining pragmatic influences on how people interpret verbal probabilities and quantifiers and how they draw inferences.
