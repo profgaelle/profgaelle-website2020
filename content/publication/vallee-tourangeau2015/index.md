@@ -45,7 +45,7 @@ projects = ["systm"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Cognitive interactivity", "Distributed cognition", "Statistical reasoning", "Numeracy"]
+tags = ["Judgement & Decision-making",	"Bayesian reasoning", "Problem-solving", "Distributed cognition"]
 
 # Links (optional).
 url_pdf = ""

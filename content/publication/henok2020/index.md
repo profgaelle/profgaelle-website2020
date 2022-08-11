@@ -44,7 +44,7 @@ projects = ["systm"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Cognitive interactivity", "Systemic thinking model", "Insight Problem Solving"]
+tags = ["Problem-solving", "Distributed cognition", "Creative cognition"]
 
 # Links (optional).
 url_pdf = "/files/henok2020.pdf"
