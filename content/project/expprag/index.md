@@ -10,7 +10,7 @@ summary = "This research programme focuses on the pragmatic processes involved i
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Social cognition",	"Conversational pragmatics", "Judgement & Decision-making", "Risk communication", "Uncertainty communication", "Problem-solving", "Reasoning"]
+tags = ["Social cognition",	"Conversational pragmatics", "Judgement & Decision-making", "Risk communication", "Problem-solving", "Reasoning"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

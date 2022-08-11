@@ -44,7 +44,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["vaccine hesitancy", "open access"]
+tags = ["Vaccine hesitancy", "Behavioural science"]
 
 # Links (optional).
 url_pdf = "files/thomson2015.pdf"
