@@ -45,7 +45,7 @@ projects = ["systm"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Personal planning", "Time management", "Systemic thinking"]
+tags = ["Judgement & Decision-making", "Distributed cognition", "Personal planning"]
 
 # Links (optional).
 url_pdf = "https://cogsci.mindmodeling.org/2017/papers/0416/paper0416.pdf"
