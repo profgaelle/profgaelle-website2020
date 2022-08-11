@@ -10,7 +10,7 @@ summary = "This resource contains a micro-learning activity which you can use to
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Peer-review", "Research evaluation"]
+tags = ["Academia", "Research quality"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
