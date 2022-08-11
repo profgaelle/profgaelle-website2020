@@ -47,7 +47,7 @@ projects = ["expprag"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Risk communication", "Conversational pragmatics", "Face management", "Politeness theory"]
+tags = ["Judgement & Decision-making", "Risk communication", "Social cognition", "Conversational pragmatics"]
 
 # Links (optional).
 url_pdf = ""

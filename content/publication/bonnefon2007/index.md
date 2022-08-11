@@ -47,7 +47,7 @@ projects = ["expprag"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Logic", "Inference", "Conversational pragmatics"]
+tags = ["Social cognition", "Conversational pragmatics", "Problem-solving", "Reasoning"]
 
 # Links (optional).
 url_pdf = ""
