@@ -6,7 +6,6 @@ authors:
 
 tags:
 - "Research quality"
-- "Research Excellence"
 - "REF2020"
 - "Academia"
 
