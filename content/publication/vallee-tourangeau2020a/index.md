@@ -13,8 +13,7 @@ tags:
 - Distributed cognition
 
 categories: []
-date: '2021-11-01'
-lastmod: 2021-11-21T08:16:55Z
+date: '2020-02-18'
 featured: false
 draft: false
 
