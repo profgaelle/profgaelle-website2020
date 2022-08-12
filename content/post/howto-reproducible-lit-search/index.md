@@ -9,8 +9,8 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["gaelle-vallee-tourangeau"]
 
-tags = ["Study guide", "Literature search", "Research methods"]
-categories = ["Open Academia", "How-tos"]
+tags = ["Academia", "Research skills"]
+categories = ["How-tos"]
 
 summary = "How to create a reproducible literature search for your research projects."
 
