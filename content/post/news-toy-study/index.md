@@ -10,9 +10,8 @@ categories:
 projects:
 
 tags:
-  - sustainable design
-  - behavioural science
-  - research project
+  - Sustainable consumption
+  - Behavioural science
 
 url_pdf: ""
 
