@@ -56,6 +56,6 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Assistant
+- PhD student
 ---
 I am a Research Assistant attached to the Towards Outstanding Research Reviews project (TORR), funded by the Wellcome Trust. The TORR project aims to understand how peer reviewers use and combine information in grant applications to make their recommendations. I am also a current PhD Psychology student at Kingston University. My research involves examining the social representations of medicinal cannabis.
