@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Gaëlle Vallée-Tourangeau
+title: Gaëlle Villejoubert
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: Professor of Behavioural Science
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Principal Investigator
+# user_groups:
+#   - Principal Investigator
 
 # Organizations/Affiliations to show in About widget
 organizations:

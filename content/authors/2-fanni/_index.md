@@ -7,10 +7,10 @@ authors:
 - 2-fanni
 
 # Is this the primary user of the site?
-superuser: no
+superuser: yes
 
 # Role/position
-role: PhD student
+role: PhD student & BeSci lab manager
 
 # Organizations/Affiliations
 organizations:
@@ -56,7 +56,9 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
----
+- Research students
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+---
 I am a Research Assistant attached to the Towards Outstanding Research Reviews project (TORR), funded by the Wellcome Trust. The TORR project aims to understand how peer reviewers use and combine information in grant applications to make their recommendations. I am also a current PhD Psychology student at Kingston University. My research involves examining the social representations of medicinal cannabis.

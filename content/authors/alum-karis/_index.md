@@ -6,13 +6,13 @@ title: Karis Moon
 superuser: false
 
 # Role/position
-role: Postdoctoral Research Associate
+# role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
-organizations:
-- name: NHS
-  url: ""
+# organizations:
+# - name: UK National Health Services
+#   url: ""
 
 user_groups:
-- Collaborators
+- Alumni
 ---

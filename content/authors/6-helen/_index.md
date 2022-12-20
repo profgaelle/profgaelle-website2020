@@ -61,6 +61,6 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Research students
 ---
 I am researching older executives' career decisions over their lifespan in order to understand the influence of changes such as increasing longevity on their decisions about the later stages of their careers. To do this I am devising a framework to identify the key dimensions of careers in the 21st century. This framework will highlight how these dimensions have changed in recent years and howcareer decisions may be influenced by changes in the dimensions or by executives' perceptions of their changing position across the dimensions. I propose to apply the new framework to executive accounts of their career decisions to understand their decision criteria at different stages over the lifespan. I intend to compare this with their current career preferences and the opportunities they perceive they now have to sustain their careers and I propose to identify any emerging career scripts.
