@@ -48,7 +48,9 @@ publishDate: '2020'
 #   7 = Thesis
 #   8 = Patent
 
-publication_types: ["6"]
+publication_types:
+- '6'
+
 
 abstract: "We discuss insight as an enacted process, involving action and perception. As a physical and perceptual activity, a degree of serendipity is inevitable, and, in some circumstances, insight becomes *outsight*. We identify eight key features of first-order creative cognition that map out a new program of research on insight."
 
